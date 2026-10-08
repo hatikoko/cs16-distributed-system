@@ -1,0 +1,53 @@
+
+
+[2026-10-08 17:15:26] Client version: 1788292693
+[2026-10-08 17:15:26] Failed to read store 'install' from 'D:\cs16server\config\config.vdf.tmp'
+[2026-10-08 17:15:26] Failed to read store 'install' from 'D:\cs16server\config\config.vdf.tmp'
+[2026-10-08 17:15:26] Failed to read store 'install' from 'D:\cs16server\config\config.vdf.tmp'
+[2026-10-08 17:15:27] Flushed store 'install' to 'D:\cs16server\config\config.vdf'
+[2026-10-08 17:16:10] Loaded store 'install' from 'D:\cs16server\config\config.vdf' successfully
+[2026-10-08 17:16:15] Flushed store 'install' to 'D:\cs16server\config\config.vdf'
+[2026-10-08 17:16:15] Failed to read store 'userlocal' from 'D:\cs16server\userdata\anonymous\config\localconfig.vdf.tmp'
+[2026-10-08 17:16:15] Flushed store 'install' to 'D:\cs16server\config\config.vdf'
+[2026-10-08 17:16:17] Flushed store 'userlocal' to 'D:\cs16server\userdata\anonymous\config\localconfig.vdf'
+[2026-10-08 17:16:27] Flushed store 'userlocal' to 'D:\cs16server\userdata\anonymous\config\localconfig.vdf'
+[2026-10-08 17:16:28] Flushed store 'install' to 'D:\cs16server\config\config.vdf'
+[2026-10-08 17:16:30] Flushed store 'install' to 'D:\cs16server\config\config.vdf'
+[2026-10-08 17:16:31] Flushed store 'install' to 'D:\cs16server\config\config.vdf'
+[2026-10-08 17:16:32] Flushed store 'install' to 'D:\cs16server\config\config.vdf'
+[2026-10-08 17:16:32] Flushed store 'install' to 'D:\cs16server\config\config.vdf'
+[2026-10-08 17:16:59] Loaded store 'install' from 'D:\cs16server\config\config.vdf' successfully
+[2026-10-08 17:16:59] Flushed store 'install' to 'D:\cs16server\config\config.vdf'
+[2026-10-08 17:17:29] Flushed store 'install' to 'D:\cs16server\config\config.vdf'
+
+
+[2026-10-08 17:23:20] Client version: no bootstrapper found
+[2026-10-08 17:23:20] Loaded store 'install' from 'D:\cs16server\config\config.vdf' successfully
+
+
+[2026-10-08 17:23:31] Client version: no bootstrapper found
+[2026-10-08 17:23:31] Loaded store 'install' from 'D:\cs16server\config\config.vdf' successfully
+[2026-10-08 17:23:55] Flushed store 'install' to 'D:\cs16server\config\config.vdf'
+
+
+[2026-10-08 17:27:25] Client version: no bootstrapper found
+[2026-10-08 17:27:25] Loaded store 'install' from 'D:\cs16server\config\config.vdf' successfully
+
+
+[2026-10-08 17:29:15] Client version: no bootstrapper found
+[2026-10-08 17:29:15] Loaded store 'install' from 'D:\cs16server\config\config.vdf' successfully
+[2026-10-08 17:29:40] Flushed store 'install' to 'D:\cs16server\config\config.vdf'
+[2026-10-08 17:30:01] Flushed store 'install' to 'D:\cs16server\config\config.vdf'
+[2026-10-08 17:30:30] Flushed store 'install' to 'D:\cs16server\config\config.vdf'
+[2026-10-08 17:30:51] Flushed store 'install' to 'D:\cs16server\config\config.vdf'
+[2026-10-08 17:31:21] Flushed store 'install' to 'D:\cs16server\config\config.vdf'
+
+
+[2026-10-08 17:33:54] Client version: no bootstrapper found
+[2026-10-08 17:33:54] Loaded store 'install' from 'D:\cs16server\config\config.vdf' successfully
+[2026-10-08 17:34:19] Flushed store 'install' to 'D:\cs16server\config\config.vdf'
+[2026-10-08 17:34:40] Flushed store 'install' to 'D:\cs16server\config\config.vdf'
+
+
+[2026-10-08 18:23:30] Client version: no bootstrapper found
+[2026-10-08 18:23:30] Loaded store 'install' from 'D:\cs16server\config\config.vdf' successfully

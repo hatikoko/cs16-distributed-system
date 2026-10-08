@@ -1,0 +1,96 @@
+
+
+[2026-10-08 17:16:15] Client version: 1788292693
+[2026-10-08 17:16:15] Loaded 0 apps from install folder "d:\cs16server\steamapps\appmanifest_*.acf".
+[2026-10-08 17:16:15] Triggered async write of Steam library folders configuration (1 libraries).
+[2026-10-08 17:16:26] AppID 90 state changed : Update Required,
+[2026-10-08 17:16:26] AppID 70 state changed : Update Required,Shared Only,
+[2026-10-08 17:16:26] Dependency added: parent 70, child 90, depot 1
+[2026-10-08 17:16:26] AppID 10 state changed : Update Required,Shared Only,
+[2026-10-08 17:16:26] Dependency added: parent 10, child 90, depot 11
+[2026-10-08 17:16:26] Dependency added: parent 70, child 90, depot 71
+[2026-10-08 17:16:26] AppID 90 scheduler update : Priority First, not played for 0 seconds, update disabled for 0 seconds
+[2026-10-08 17:16:26] AppID 90 state changed : Update Required,Update Queued,
+[2026-10-08 17:16:26] AppID 90 scheduler update : Priority First, not played for 0 seconds, update disabled for 0 seconds
+[2026-10-08 17:16:27] AppID 90 state changed : Update Required,Update Queued,Update Running,
+[2026-10-08 17:16:27] AppID 70 state changed : Update Required,Shared Only,Update Running,
+[2026-10-08 17:16:27] AppID 10 state changed : Update Required,Shared Only,Update Running,
+[2026-10-08 17:16:27] AppID 90 App update changed : Running Update,
+[2026-10-08 17:16:27] AppID 90 App update changed : Running Update,Reconfiguring,
+[2026-10-08 17:16:28] Got 33 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe (CellID 158 / Launcher 3)
+[2026-10-08 17:16:28] Moving to source priority class '10'
+[2026-10-08 17:16:28] Created download interface of type 'SteamCache' (7) to host cache2-ala-kzkt.steamcontent.com (cache2-ala-kzkt.steamcontent.com)
+[2026-10-08 17:16:28] Created download interface of type 'SteamCache' (7) to host cache1-ala-kzkt.steamcontent.com (cache1-ala-kzkt.steamcontent.com)
+[2026-10-08 17:16:28] Created download interface of type 'SteamCache' (7) to host cache2-nqz-kzkt.steamcontent.com (cache2-nqz-kzkt.steamcontent.com)
+[2026-10-08 17:16:28] Created download interface of type 'SteamCache' (7) to host cache1-nqz-kzkt.steamcontent.com (cache1-nqz-kzkt.steamcontent.com)
+[2026-10-08 17:16:28] HTTP/2 available
+[2026-10-08 17:16:28] Created ipv4-only http client
+[2026-10-08 17:16:29] HTTPS (SteamCache,266) - cache2-ala-kzkt.steamcontent.com (89.218.61.99:443 / 89.218.61.99:443, host: cache2-ala-kzkt.steamcontent.com): Negotiated HTTP/2
+[2026-10-08 17:16:29] HTTP/2 (SteamCache,266) - cache2-ala-kzkt.steamcontent.com (89.218.61.99:443 / 89.218.61.99:443, host: cache2-ala-kzkt.steamcontent.com): cache2-ala-kzkt.steamcontent.com/depot/11/manifest/3018093494972814332/5/1644306456196685086 - manifest request received 200 (OK) HTTP response
+[2026-10-08 17:16:30] HTTPS (SteamCache,253) - cache1-ala-kzkt.steamcontent.com (89.218.61.98:443 / 89.218.61.98:443, host: cache1-ala-kzkt.steamcontent.com): Negotiated HTTP/2
+[2026-10-08 17:16:30] HTTP/2 (SteamCache,253) - cache1-ala-kzkt.steamcontent.com (89.218.61.98:443 / 89.218.61.98:443, host: cache1-ala-kzkt.steamcontent.com): cache1-ala-kzkt.steamcontent.com/depot/1/manifest/2667117727132184734/5/14597519488206414600 - manifest request received 200 (OK) HTTP response
+[2026-10-08 17:16:31] HTTP/2 (SteamCache,253) - cache1-ala-kzkt.steamcontent.com (89.218.61.98:443 / 89.218.61.98:443, host: cache1-ala-kzkt.steamcontent.com): cache1-ala-kzkt.steamcontent.com/depot/71/manifest/3982364535202188842/5/4074598899514874485 - manifest request received 200 (OK) HTTP response
+[2026-10-08 17:16:32] HTTP/2 (SteamCache,266) - cache2-ala-kzkt.steamcontent.com (89.218.61.99:443 / 89.218.61.99:443, host: cache2-ala-kzkt.steamcontent.com): cache2-ala-kzkt.steamcontent.com/depot/5/manifest/2602921513184876182/5/2832075064710515407 - manifest request received 200 (OK) HTTP response
+[2026-10-08 17:16:33] HTTPS (SteamCache,471) - cache2-nqz-kzkt.steamcontent.com (37.151.91.163:443 / 37.151.91.163:443, host: cache2-nqz-kzkt.steamcontent.com): Negotiated HTTP/2
+[2026-10-08 17:16:33] HTTP/2 (SteamCache,471) - cache2-nqz-kzkt.steamcontent.com (37.151.91.163:443 / 37.151.91.163:443, host: cache2-nqz-kzkt.steamcontent.com): cache2-nqz-kzkt.steamcontent.com/depot/1004/manifest/7604377918839582995/5/6388774671668699111 - manifest request received 200 (OK) HTTP response
+[2026-10-08 17:16:33] AppID 90 App update changed : Running Update,
+[2026-10-08 17:16:33] AppID 90 App update changed : Running Update,Verifying Installed,
+[2026-10-08 17:16:33] AppID 90 App update changed : Running Update,
+[2026-10-08 17:16:33] AppID 90 App update changed : Running Update,Preallocating,
+[2026-10-08 17:16:34] AppID 10 preallocated 141 files (227 MB) 
+[2026-10-08 17:16:34] AppID 70 preallocated 238 files (373 MB) 
+[2026-10-08 17:16:34] AppID 90 preallocated 19 files (77 MB) 
+[2026-10-08 17:16:34] AppID 90 App update changed : Running Update,
+[2026-10-08 17:16:34] AppID 10 update started : download 0/149760208, store 0/0, reuse 0/0, delta 0/0, stage 0/292340389 
+[2026-10-08 17:16:34] AppID 10 state changed : Update Required,Shared Only,Update Running,Update Started,
+[2026-10-08 17:16:34] AppID 70 update started : download 0/268829392, store 0/0, reuse 0/0, delta 0/0, stage 0/529827940 
+[2026-10-08 17:16:34] AppID 70 state changed : Update Required,Shared Only,Update Running,Update Started,
+[2026-10-08 17:16:34] AppID 90 update started : download 0/29562768, store 0/0, reuse 0/0, delta 0/0, stage 0/84036925 
+[2026-10-08 17:16:34] AppID 90 state changed : Update Required,Update Queued,Update Running,Update Started,
+[2026-10-08 17:16:34] AppID 90 App update changed : Running Update,Downloading,Staging,
+[2026-10-08 17:16:34] Downloading 1249 chunks for depot 11 (3018093494972814332)
+[2026-10-08 17:16:34] HTTPS (SteamCache,470) - cache1-nqz-kzkt.steamcontent.com (37.151.91.162:443 / 37.151.91.162:443, host: cache1-nqz-kzkt.steamcontent.com): Negotiated HTTP/2
+[2026-10-08 17:16:39] AppID 90 App update changed : Running Update,
+[2026-10-08 17:16:39] AppID 90 App update changed : Running Update,Downloading,Staging,
+[2026-10-08 17:16:39] Downloading 4341 chunks for depot 1 (2667117727132184734)
+[2026-10-08 17:16:41] Increasing target number of download connections to 9 (rate was 0.000, now 162.721)
+[2026-10-08 17:17:20] Downloading 21 chunks for depot 71 (3982364535202188842)
+[2026-10-08 17:17:21] AppID 90 App update changed : Running Update,
+[2026-10-08 17:17:21] AppID 90 App update changed : Running Update,Downloading,Staging,
+[2026-10-08 17:17:21] Downloading 143 chunks for depot 5 (2602921513184876182)
+[2026-10-08 17:17:22] Downloading 69 chunks for depot 1004 (7604377918839582995)
+[2026-10-08 17:17:23] AppID 90 App update changed : Running Update,
+[2026-10-08 17:17:23] AppID 90 App update changed : Running Update,Verifying Staged,
+[2026-10-08 17:17:24] Verified 278 MB in 'D:\cs16server', clean bytes tally is now 278 MB
+[2026-10-08 17:17:24] Triggered async write of Steam library folders configuration (1 libraries).
+[2026-10-08 17:17:33] Verified 505 MB in 'D:\cs16server', clean bytes tally is now 784 MB
+[2026-10-08 17:17:33] Triggered async write of Steam library folders configuration (1 libraries).
+[2026-10-08 17:17:34] Verified 80 MB in 'D:\cs16server', clean bytes tally is now 864 MB
+[2026-10-08 17:17:34] Triggered async write of Steam library folders configuration (1 libraries).
+[2026-10-08 17:17:34] AppID 90 App update changed : Running Update,
+[2026-10-08 17:17:34] AppID 90 App update changed : Running Update,Committing,
+[2026-10-08 17:17:34] AppID 10 starting commit from "d:\cs16server\steamapps\downloading\10" to "d:\cs16server" : 1197 updated, 0 moved, 0 deleted files
+[2026-10-08 17:17:34] AppID 10 state changed : Fully Installed,Shared Only,Update Running,
+[2026-10-08 17:17:34] AppID 10 finished update, 1 mounted depots (BuildID 12934623) : 11 (3018093494972814332),
+[2026-10-08 17:17:34] AppID 70 starting commit from "d:\cs16server\steamapps\downloading\70" to "d:\cs16server" : 4329 updated, 0 moved, 0 deleted files
+[2026-10-08 17:17:35] AppID 70 state changed : Fully Installed,Shared Only,Update Running,
+[2026-10-08 17:17:35] AppID 70 finished update, 2 mounted depots (BuildID 15961492) : 1 (2667117727132184734),71 (3982364535202188842),
+[2026-10-08 17:17:35] AppID 90 starting commit from "d:\cs16server\steamapps\downloading\90" to "d:\cs16server" : 148 updated, 0 moved, 0 deleted files
+[2026-10-08 17:17:35] AppID 90 state changed : Fully Installed,Update Queued,Update Running,
+[2026-10-08 17:17:35] AppID 90 finished update, 2 mounted depots (BuildID 15961496) : 5 (2602921513184876182),1004 (7604377918839582995),
+[2026-10-08 17:17:35] AppID 90 App update changed : Running Update,
+[2026-10-08 17:17:35] AppID 90 App update changed : None
+[2026-10-08 17:17:35] AppID 10 state changed : Fully Installed,Shared Only,
+[2026-10-08 17:17:35] AppID 70 state changed : Fully Installed,Shared Only,
+[2026-10-08 17:17:35] AppID 90 state changed : Fully Installed,Update Queued,
+[2026-10-08 17:17:35] AppID 90 state changed : Fully Installed,
+[2026-10-08 17:17:35] AppID 90 scheduler finished : removed from schedule (result No Error, state 0xc) 
+[2026-10-08 17:17:41] Current download rate: 0.000 Mbps
+[2026-10-08 17:18:23] HTTP/2 (SteamCache,470) - cache1-nqz-kzkt.steamcontent.com (37.151.91.162:443 / 37.151.91.162:443, host: cache1-nqz-kzkt.steamcontent.com): Connection has been idle for '61' seconds, closing
+[2026-10-08 17:18:23] HTTP/2 (SteamCache,470) - cache1-nqz-kzkt.steamcontent.com (37.151.91.162:443 / 37.151.91.162:443, host: cache1-nqz-kzkt.steamcontent.com): Closing connection
+[2026-10-08 17:18:24] HTTP/2 (SteamCache,253) - cache1-ala-kzkt.steamcontent.com (89.218.61.98:443 / 89.218.61.98:443, host: cache1-ala-kzkt.steamcontent.com): Connection has been idle for '61' seconds, closing
+[2026-10-08 17:18:24] HTTP/2 (SteamCache,253) - cache1-ala-kzkt.steamcontent.com (89.218.61.98:443 / 89.218.61.98:443, host: cache1-ala-kzkt.steamcontent.com): Closing connection
+[2026-10-08 17:18:24] HTTP/2 (SteamCache,266) - cache2-ala-kzkt.steamcontent.com (89.218.61.99:443 / 89.218.61.99:443, host: cache2-ala-kzkt.steamcontent.com): Connection has been idle for '61' seconds, closing
+[2026-10-08 17:18:24] HTTP/2 (SteamCache,266) - cache2-ala-kzkt.steamcontent.com (89.218.61.99:443 / 89.218.61.99:443, host: cache2-ala-kzkt.steamcontent.com): Closing connection
+[2026-10-08 17:18:24] HTTP/2 (SteamCache,471) - cache2-nqz-kzkt.steamcontent.com (37.151.91.163:443 / 37.151.91.163:443, host: cache2-nqz-kzkt.steamcontent.com): Connection has been idle for '61' seconds, closing
+[2026-10-08 17:18:24] HTTP/2 (SteamCache,471) - cache2-nqz-kzkt.steamcontent.com (37.151.91.163:443 / 37.151.91.163:443, host: cache2-nqz-kzkt.steamcontent.com): Closing connection

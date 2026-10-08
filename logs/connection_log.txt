@@ -1,0 +1,123 @@
+
+
+[2026-10-08 17:15:26] Client version: 1788292693
+[2026-10-08 17:15:26] Log session started
+[2026-10-08 17:15:26] [Logged Off, 0, 0] [U:1:0] CCMInterface::SetSteamID( [U:1:0] )
+[2026-10-08 17:15:26] CCMInterface::OnNetworkDeviceStateChange -- Saw device up (1257634649)
+[2026-10-08 17:15:26] CCMInterface::OnNetworkDeviceStateChange -- Saw device up (820891015)
+[2026-10-08 17:15:26] IPv6 HTTP connectivity test (ipv6check-http.steamserver.net / 0.0.0.0:80 (0.0.0.0:80)) - TIMEOUT
+[2026-10-08 17:15:26] IPv6 UDP connectivity test (ipv6check-udp.steamserver.net) - FAILED, no addresses resolved
+[2026-10-08 17:16:10] Clearing in-memory token - 1 (OK): SetLoginInformation
+[2026-10-08 17:16:10] [Logged Off, 0, 0] [a:1:0] CCMInterface::SetSteamID( [a:1:0] )
+[2026-10-08 17:16:10] [Logged Off, 0, 0] [a:1:0] CCMInterface::SetSteamID( [a:1:0] )
+[2026-10-08 17:16:10] [Logged Off, 4, 0] [a:1:0] EConnect called - scheduling connection for 50ms from now
+[2026-10-08 17:16:10] [Logged Off, 4, 0] [a:1:0] LogOn() called; not connected yet, scheduling connection. Schedule init returned 22
+[2026-10-08 17:16:10] [Logged Off, 4, 0] [a:1:0] EConnect called - scheduling connection for 50ms from now
+[2026-10-08 17:16:10] [Logged Off, 4, 0] [a:1:0] EConnect called - scheduling connection for 50ms from now
+[2026-10-08 17:16:10] [Logged Off, 4, 0] [a:1:0] EConnect called - scheduling connection for 50ms from now
+[2026-10-08 17:16:10] CCMInterface::YieldingConnect -- calling ISteamDirectory/GetCMListForConnect/?cellid=0&qoslevel=3
+[2026-10-08 17:16:11] GetCMListForConnect -- got 12 Netfilter CMs and 105 WebSocket CMs
+[2026-10-08 17:16:11] GetCMListForConnect -- DC 'hkg1' count: 20
+[2026-10-08 17:16:11] GetCMListForConnect -- DC 'tyo3' count: 8
+[2026-10-08 17:16:11] GetCMListForConnect -- DC 'sgp1' count: 9
+[2026-10-08 17:16:11] GetCMListForConnect -- DC 'lax1' count: 6
+[2026-10-08 17:16:11] GetCMListForConnect -- DC 'ord1' count: 4
+[2026-10-08 17:16:11] GetCMListForConnect -- DC 'sea1' count: 4
+[2026-10-08 17:16:11] GetCMListForConnect -- DC 'dfw2' count: 5
+[2026-10-08 17:16:11] GetCMListForConnect -- DC 'atl3' count: 6
+[2026-10-08 17:16:11] GetCMListForConnect -- DC 'iad1' count: 4
+[2026-10-08 17:16:11] GetCMListForConnect -- DC 'maa2' count: 32
+[2026-10-08 17:16:11] GetCMListForConnect -- DC 'syd1' count: 6
+[2026-10-08 17:16:11] GetCMListForConnect -- DC 'bom2' count: 13
+[2026-10-08 17:16:11] [Connecting, 4, 0] [a:1:0] CM Directory list says 89% of connections should be websockets, we rolled 84 - using WebSockets as default.
+[2026-10-08 17:16:11] [Connecting, 4, 0] [a:1:0] PingWebSocketCM() (cmp1-hkg1.steamserver.net:27024) starting...
+[2026-10-08 17:16:11] [Connecting, 4, 0] [a:1:0] PingWebSocketCM() (cmp3-hkg1.steamserver.net:27025) starting...
+[2026-10-08 17:16:11] [Connecting, 4, 0] [a:1:0] PingWebSocketCM() (cmp1-hkg1.steamserver.net:443) starting...
+[2026-10-08 17:16:11] [Connecting, 4, 0] [a:1:0] PingWebSocketCM() (cmp1-tyo3.steamserver.net:27019) starting...
+[2026-10-08 17:16:12] [Connecting, 4, 0] [a:1:0] PingWebSocketCM() (cmp1-hkg1.steamserver.net:27024) failed talking to cm (timeout/neterror - Invalid)
+[2026-10-08 17:16:12] [Connecting, 4, 0] [a:1:0] PingWebSocketCM() (cmp3-hkg1.steamserver.net:27025) failed talking to cm (timeout/neterror - Invalid)
+[2026-10-08 17:16:12] [Connecting, 4, 0] [a:1:0] PingWebSocketCM() (cmp1-hkg1.steamserver.net:443) failed talking to cm (timeout/neterror - Invalid)
+[2026-10-08 17:16:12] [Connecting, 4, 0] [a:1:0] PingWebSocketCM() (cmp1-tyo3.steamserver.net:27019) failed talking to cm (timeout/neterror - Invalid)
+[2026-10-08 17:16:12] [Connecting, 4, 0] [a:1:0] PingWebSocketCM() (cmp1-tyo3.steamserver.net:443) starting...
+[2026-10-08 17:16:12] [Connecting, 4, 0] [a:1:0] PingWebSocketCM() (cmp2-tyo3.steamserver.net:27018) starting...
+[2026-10-08 17:16:12] [Connecting, 4, 0] [a:1:0] PingWebSocketCM() (cmp2-sgp1.steamserver.net:443) starting...
+[2026-10-08 17:16:12] [Connecting, 4, 0] [a:1:0] PingWebSocketCM() (cmp1-sgp1.steamserver.net:27018) starting...
+[2026-10-08 17:16:13] [Connecting, 4, 0] [a:1:0] PingWebSocketCM() (cmp1-sgp1.steamserver.net:27018) results: 284.6413ms + load 45.0000
+[2026-10-08 17:16:13] [Connecting, 4, 0] [a:1:0] PingWebSocketCM() (cmp2-sgp1.steamserver.net:27018) starting...
+[2026-10-08 17:16:13] [Connecting, 4, 0] [a:1:0] PingWebSocketCM() (cmp2-tyo3.steamserver.net:27018) results: 182.0488ms + load 31.0000
+[2026-10-08 17:16:13] [Connecting, 4, 0] [a:1:0] PingWebSocketCM() (cmp1-lax1.steamserver.net:443) starting...
+[2026-10-08 17:16:13] [Connecting, 4, 0] [a:1:0] PingWebSocketCM() (cmp1-tyo3.steamserver.net:443) results: 175.3235ms + load 28.0000
+[2026-10-08 17:16:13] [Connecting, 4, 0] [a:1:0] PingWebSocketCM() (ext2-maa2.steamserver.net:27021) starting...
+[2026-10-08 17:16:13] [Connecting, 4, 0] [a:1:0] PingWebSocketCM() (cmp2-sgp1.steamserver.net:443) results: 289.2189ms + load 46.0000
+[2026-10-08 17:16:13] [Connecting, 4, 0] [a:1:0] PingWebSocketCM() (ext1-maa2.steamserver.net:27022) starting...
+[2026-10-08 17:16:14] [Connecting, 4, 0] [a:1:0] PingWebSocketCM() (cmp1-lax1.steamserver.net:443) failed talking to cm (timeout/neterror - Invalid)
+[2026-10-08 17:16:14] [Connecting, 4, 0] [a:1:0] PingWebSocketCM() (ext2-maa2.steamserver.net:27021) failed talking to cm (timeout/neterror - Invalid)
+[2026-10-08 17:16:14] [Connecting, 4, 0] [a:1:0] PingWebSocketCM() (cmp2-sgp1.steamserver.net:27018) failed talking to cm (timeout/neterror - Invalid)
+[2026-10-08 17:16:14] [Connecting, 4, 0] [a:1:0] PingWebSocketCM() (ext1-maa2.steamserver.net:27022) failed talking to cm (timeout/neterror - Invalid)
+[2026-10-08 17:16:14] [Connecting, 4, 3] [a:1:0] Connect() starting connection (eNetQOSLevelHigh, cmp1-tyo3.steamserver.net:443, WebSocket)
+[2026-10-08 17:16:14] [Connecting, 4, 3] [a:1:0] ConnectionCompleted() (45.121.184.100:443, WebSocket) local address (192.168.10.6:25887)
+[2026-10-08 17:16:14] [Connecting, 4, 3] [a:1:0] Client thinks it can connect via: UDP - yes, TCP - yes, WebSocket:443 - yes, WebSocket:Non443 - yes
+[2026-10-08 17:16:14] [Connected, 4, 3] [a:1:0] Logging on [a:1:0]
+[2026-10-08 17:16:15] [Logging On, 4, 3] [a:1:0] RecvMsgClientLogOnResponse() : [a:1:579290437] 'OK'
+[2026-10-08 17:16:15] Connectivity test: result=Connected (since 0.0s ago), prev=Unknown, in progress=0
+[2026-10-08 17:16:15] [Logged On, 4, 3] [a:1:579290437] RecvMsgClientLogOnResponse() : processing complete
+
+
+[2026-10-08 17:23:20] Client version: no bootstrapper found
+[2026-10-08 17:23:20] Connectivity test: Starting test, fetching 'http://steamconnecttest.com/204'
+
+
+[2026-10-08 17:23:31] Client version: no bootstrapper found
+[2026-10-08 17:23:31] Connectivity test: Starting test, fetching 'http://steamconnecttest.com/204'
+[2026-10-08 17:23:46] Connectivity test (23.35.104.130:80 (23.35.104.130:80)): HTTP fetch failed
+[2026-10-08 17:23:46] Connectivity test: result=TimedOut (since 0.0s ago), prev=Unknown, in progress=0
+[2026-10-08 17:23:51] Connectivity test: Starting test, fetching 'http://steamconnecttest.com/204'
+
+
+[2026-10-08 17:27:25] Client version: no bootstrapper found
+[2026-10-08 17:27:25] Connectivity test: Starting test, fetching 'http://steamconnecttest.com/204'
+[2026-10-08 17:27:40] Connectivity test (23.35.104.129:80 (23.35.104.129:80)): HTTP fetch failed
+[2026-10-08 17:27:40] Connectivity test: result=TimedOut (since 0.0s ago), prev=Unknown, in progress=0
+[2026-10-08 17:27:46] Connectivity test: Starting test, fetching 'http://steamconnecttest.com/204'
+
+
+[2026-10-08 17:29:15] Client version: no bootstrapper found
+[2026-10-08 17:29:15] Connectivity test: Starting test, fetching 'http://steamconnecttest.com/204'
+[2026-10-08 17:29:30] Connectivity test (23.35.104.130:80 (23.35.104.130:80)): HTTP fetch failed
+[2026-10-08 17:29:30] Connectivity test: result=TimedOut (since 0.0s ago), prev=Unknown, in progress=0
+[2026-10-08 17:29:36] Connectivity test: Starting test, fetching 'http://steamconnecttest.com/204'
+[2026-10-08 17:29:51] Connectivity test (178.88.173.162:80 (178.88.173.162:80)): HTTP fetch failed
+[2026-10-08 17:29:51] Connectivity test: result=TimedOut (since 20.5s ago), prev=Unknown, in progress=0
+[2026-10-08 17:29:58] Connectivity test: Starting test, fetching 'http://steamconnecttest.com/204'
+[2026-10-08 17:30:13] Connectivity test (178.88.173.170:80 (178.88.173.170:80)): HTTP fetch failed
+[2026-10-08 17:30:13] Connectivity test: result=TimedOut (since 43.0s ago), prev=Unknown, in progress=0
+[2026-10-08 17:30:21] Connectivity test: Starting test, fetching 'http://steamconnecttest.com/204'
+[2026-10-08 17:30:36] Connectivity test (23.35.104.130:80 (23.35.104.130:80)): HTTP fetch failed
+[2026-10-08 17:30:36] Connectivity test: result=TimedOut (since 65.7s ago), prev=Unknown, in progress=0
+[2026-10-08 17:30:45] Connectivity test: Starting test, fetching 'http://steamconnecttest.com/204'
+[2026-10-08 17:31:00] Connectivity test (178.88.173.162:80 (178.88.173.162:80)): HTTP fetch failed
+[2026-10-08 17:31:00] Connectivity test: result=TimedOut (since 89.7s ago), prev=Unknown, in progress=0
+[2026-10-08 17:31:09] Connectivity test: Starting test, fetching 'http://steamconnecttest.com/204'
+[2026-10-08 17:31:24] Connectivity test (23.35.104.129:80 (23.35.104.129:80)): HTTP fetch failed
+[2026-10-08 17:31:24] Connectivity test: result=TimedOut (since 113.9s ago), prev=Unknown, in progress=0
+[2026-10-08 17:31:34] Connectivity test: Starting test, fetching 'http://steamconnecttest.com/204'
+
+
+[2026-10-08 17:33:54] Client version: no bootstrapper found
+[2026-10-08 17:33:54] Connectivity test: Starting test, fetching 'http://steamconnecttest.com/204'
+[2026-10-08 17:34:09] Connectivity test (23.35.104.16:80 (23.35.104.16:80)): HTTP fetch failed
+[2026-10-08 17:34:09] Connectivity test: result=TimedOut (since 0.0s ago), prev=Unknown, in progress=0
+[2026-10-08 17:34:15] Connectivity test: Starting test, fetching 'http://steamconnecttest.com/204'
+[2026-10-08 17:34:30] Connectivity test (23.35.104.129:80 (23.35.104.129:80)): HTTP fetch failed
+[2026-10-08 17:34:30] Connectivity test: result=TimedOut (since 20.6s ago), prev=Unknown, in progress=0
+[2026-10-08 17:34:37] Connectivity test: Starting test, fetching 'http://steamconnecttest.com/204'
+[2026-10-08 17:34:52] Connectivity test (23.73.4.197:80 (23.73.4.197:80)): HTTP fetch failed
+[2026-10-08 17:34:52] Connectivity test: result=TimedOut (since 42.8s ago), prev=Unknown, in progress=0
+[2026-10-08 17:34:59] Connectivity test: Starting test, fetching 'http://steamconnecttest.com/204'
+
+
+[2026-10-08 18:23:30] Client version: no bootstrapper found
+[2026-10-08 18:23:30] Connectivity test: Starting test, fetching 'http://steamconnecttest.com/204'
+[2026-10-08 18:23:45] Connectivity test (23.53.32.75:80 (23.53.32.75:80)): HTTP fetch failed
+[2026-10-08 18:23:45] Connectivity test: result=TimedOut (since 0.0s ago), prev=Unknown, in progress=0
+[2026-10-08 18:23:52] Connectivity test: Starting test, fetching 'http://steamconnecttest.com/204'

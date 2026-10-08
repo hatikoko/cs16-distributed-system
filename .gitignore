@@ -1,0 +1,15 @@
+# Ignore server binaries and logs
+hlds.exe
+swds.dll
+mp.dll
+*.log
+cstrike/logs/
+
+# Ignore compiled plugin binaries (we track source code .sma, not compiled .amxx)
+cstrike/addons/amxmodx/plugins/*.amxx
+cstrike/addons/amxmodx/scripting/compiled/
+
+# Ignore cache and temporary data
+cstrike/cache/
+cstrike/resource/
+*.ztmp

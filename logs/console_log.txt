@@ -1,0 +1,55 @@
+
+
+[2026-10-08 17:15:26] Client version: 1788292693
+[2026-10-08 17:15:26] Loading Steam API...
+[2026-10-08 17:15:26] OK
+[2026-10-08 17:15:26] 
+Steam>
+[2026-10-08 17:16:01] 
+Steam>
+[2026-10-08 17:16:10] 
+Connecting anonymously to Steam Public...
+[2026-10-08 17:16:15] OK
+[2026-10-08 17:16:15] Waiting for client config...
+[2026-10-08 17:16:16] OK
+[2026-10-08 17:16:16] Waiting for user info...
+[2026-10-08 17:16:23] OK
+[2026-10-08 17:16:23] 
+Steam>
+[2026-10-08 17:16:29]  Update state (0x3) reconfiguring, progress: 0.00 (0 / 0)
+[2026-10-08 17:16:31]  Update state (0x3) reconfiguring, progress: 0.00 (0 / 0)
+[2026-10-08 17:16:33]  Update state (0x3) reconfiguring, progress: 0.00 (0 / 0)
+[2026-10-08 17:16:35]  Update state (0x61) downloading, progress: 0.74 (6709950 / 906205254)
+[2026-10-08 17:16:37]  Update state (0x61) downloading, progress: 14.60 (132265780 / 906205254)
+[2026-10-08 17:16:39]  Update state (0x61) downloading, progress: 32.26 (292340389 / 906205254)
+[2026-10-08 17:16:41]  Update state (0x61) downloading, progress: 34.26 (310500514 / 906205254)
+[2026-10-08 17:16:43]  Update state (0x61) downloading, progress: 36.75 (332991480 / 906205254)
+[2026-10-08 17:16:45]  Update state (0x61) downloading, progress: 39.48 (357726860 / 906205254)
+[2026-10-08 17:16:47]  Update state (0x61) downloading, progress: 42.39 (384162878 / 906205254)
+[2026-10-08 17:16:49]  Update state (0x61) downloading, progress: 50.63 (458785544 / 906205254)
+[2026-10-08 17:16:51]  Update state (0x61) downloading, progress: 54.64 (495143316 / 906205254)
+[2026-10-08 17:16:53]  Update state (0x61) downloading, progress: 59.01 (534786503 / 906205254)
+[2026-10-08 17:16:55]  Update state (0x61) downloading, progress: 63.70 (577272869 / 906205254)
+[2026-10-08 17:16:57]  Update state (0x61) downloading, progress: 70.91 (642567591 / 906205254)
+[2026-10-08 17:16:59]  Update state (0x61) downloading, progress: 73.55 (666535625 / 906205254)
+[2026-10-08 17:17:01]  Update state (0x61) downloading, progress: 76.50 (693283641 / 906205254)
+[2026-10-08 17:17:03]  Update state (0x61) downloading, progress: 79.65 (721779897 / 906205254)
+[2026-10-08 17:17:05]  Update state (0x61) downloading, progress: 80.70 (731319442 / 906205254)
+[2026-10-08 17:17:07]  Update state (0x61) downloading, progress: 81.67 (740132804 / 906205254)
+[2026-10-08 17:17:09]  Update state (0x61) downloading, progress: 82.78 (750157924 / 906205254)
+[2026-10-08 17:17:11]  Update state (0x61) downloading, progress: 83.73 (758723541 / 906205254)
+[2026-10-08 17:17:13]  Update state (0x61) downloading, progress: 84.62 (766806545 / 906205254)
+[2026-10-08 17:17:15]  Update state (0x61) downloading, progress: 85.35 (773467041 / 906205254)
+[2026-10-08 17:17:17]  Update state (0x61) downloading, progress: 86.48 (783668006 / 906205254)
+[2026-10-08 17:17:19]  Update state (0x61) downloading, progress: 88.35 (800633991 / 906205254)
+[2026-10-08 17:17:21]  Update state (0x61) downloading, progress: 89.79 (813678449 / 906205254)
+[2026-10-08 17:17:23]  Update state (0x61) downloading, progress: 99.49 (901557374 / 906205254)
+[2026-10-08 17:17:25]  Update state (0x81) verifying update, progress: 36.82 (333706364 / 906205254)
+[2026-10-08 17:17:27]  Update state (0x81) verifying update, progress: 52.18 (472843235 / 906205254)
+[2026-10-08 17:17:29]  Update state (0x81) verifying update, progress: 52.18 (472843235 / 906205254)
+[2026-10-08 17:17:31]  Update state (0x81) verifying update, progress: 52.18 (472843235 / 906205254)
+[2026-10-08 17:17:33]  Update state (0x81) verifying update, progress: 79.68 (722088392 / 906205254)
+[2026-10-08 17:17:35]  Update state (0x0) unknown, progress: 0.00 (0 / 0)
+[2026-10-08 17:17:35] Success! App '90' fully installed.
+[2026-10-08 17:17:35] 
+Steam>

@@ -1,0 +1,34 @@
+
+
+[2026-10-08 17:23:20] Client version: no bootstrapper found
+[2026-10-08 17:23:20] Initializing System Manager
+[2026-10-08 17:23:20] Night mode active on resume 0
+[2026-10-08 17:23:20] Error: CBatteryStateManager::ThreadedComputeBestBatteryQueryMode: unable to determine a suitable battery query mode for this platform
+[2026-10-08 17:23:20] Error: CBatteryStateManager::Init: invalid query mode
+[2026-10-08 17:23:20] Error: CSystemManager::CSystemManager: failed to initialize battery state manager, battery state will be unavailable
+[2026-10-08 17:23:20] Fan control available: 0 current: 0
+
+
+[2026-10-08 17:23:31] Client version: no bootstrapper found
+[2026-10-08 17:23:31] Initializing System Manager
+[2026-10-08 17:23:31] Skipping CSystemManager Init because we are in a game process
+
+
+[2026-10-08 17:27:25] Client version: no bootstrapper found
+[2026-10-08 17:27:25] Initializing System Manager
+[2026-10-08 17:27:25] Skipping CSystemManager Init because we are in a game process
+
+
+[2026-10-08 17:29:15] Client version: no bootstrapper found
+[2026-10-08 17:29:15] Initializing System Manager
+[2026-10-08 17:29:15] Skipping CSystemManager Init because we are in a game process
+
+
+[2026-10-08 17:33:54] Client version: no bootstrapper found
+[2026-10-08 17:33:54] Initializing System Manager
+[2026-10-08 17:33:54] Skipping CSystemManager Init because we are in a game process
+
+
+[2026-10-08 18:23:30] Client version: no bootstrapper found
+[2026-10-08 18:23:30] Initializing System Manager
+[2026-10-08 18:23:30] Skipping CSystemManager Init because we are in a game process

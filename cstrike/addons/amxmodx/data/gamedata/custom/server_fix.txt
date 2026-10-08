@@ -1,0 +1,31 @@
+"Games"
+{
+    "#default"
+    {
+        "CRC"
+        {
+            "engine"
+            {
+                "windows" "E739418A"
+            }
+            "server"
+            {
+                "windows" "57C8CF95"
+            }
+        }
+    }
+    "*"
+    {
+        "CRC"
+        {
+            "engine"
+            {
+                "windows" "E739418A"
+            }
+            "server"
+            {
+                "windows" "57C8CF95"
+            }
+        }
+    }
+}
