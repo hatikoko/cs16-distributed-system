@@ -277,3 +277,471 @@
 [2026-10-08 18:23:54] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp2-hkg1.steamserver.net:27021) failed talking to cm (timeout/neterror - Invalid)
 [2026-10-08 18:23:54] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (ext2-maa2.steamserver.net:27030) failed talking to cm (timeout/neterror - Invalid)
 [2026-10-08 18:23:54] [Connecting, 4, 3] [A:1:0:0] Connect() starting connection (eNetQOSLevelMedium, cmp2-sgp1.steamserver.net:27020, WebSocket)
+
+
+[2026-10-08 22:51:22] Client version: no bootstrapper found
+[2026-10-08 22:51:22] Log session started
+[2026-10-08 22:51:22] [Logged Off, 0, 0] [A:1:0:0] CCMInterface::SetSteamID( [A:1:0:0] )
+[2026-10-08 22:51:22] Log session started
+[2026-10-08 22:51:22] [Logged Off, 4, 0] [A:1:0:0] EConnect called - scheduling connection for 50ms from now
+[2026-10-08 22:51:22] Log session started
+[2026-10-08 22:51:22] [Logged Off, 4, 0] [A:1:0:0] LogOn() called; not connected yet, scheduling connection. Schedule init returned 22
+[2026-10-08 22:51:22] IPv6 HTTP connectivity test (ipv6check-http.steamserver.net / 0.0.0.0:80 (0.0.0.0:80)) - TIMEOUT
+[2026-10-08 22:51:22] IPv6 UDP connectivity test (ipv6check-udp.steamserver.net) - FAILED, no addresses resolved
+[2026-10-08 22:51:22] [Logged Off, 4, 0] [A:1:0:0] EConnect called - scheduling connection for 50ms from now
+[2026-10-08 22:51:22] CCMInterface::YieldingConnect -- calling ISteamDirectory/GetCMListForConnect/?cellid=158&qoslevel=2
+[2026-10-08 22:51:43] GetCMListForConnect -- web API call failed (status = 0)
+[2026-10-08 22:51:43] No NetFilter CMs, defaulting to WebSockets
+[2026-10-08 22:51:43] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp2-sgp1.steamserver.net:27020) starting...
+[2026-10-08 22:51:43] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (ext2-maa2.steamserver.net:27034) starting...
+[2026-10-08 22:51:43] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (ext1-bom2.steamserver.net:27037) starting...
+[2026-10-08 22:51:43] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp2-tyo3.steamserver.net:443) starting...
+[2026-10-08 22:51:44] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp2-sgp1.steamserver.net:27020) failed talking to cm (timeout/neterror - Invalid)
+[2026-10-08 22:51:44] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (ext2-maa2.steamserver.net:27034) failed talking to cm (timeout/neterror - Invalid)
+[2026-10-08 22:51:44] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp2-iad1.steamserver.net:27018) starting...
+[2026-10-08 22:51:44] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (ext1-maa2.steamserver.net:27032) starting...
+[2026-10-08 22:51:44] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (ext1-bom2.steamserver.net:27037) failed talking to cm (timeout/neterror - Invalid)
+[2026-10-08 22:51:44] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp2-tyo3.steamserver.net:443) failed talking to cm (timeout/neterror - Invalid)
+[2026-10-08 22:51:44] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp1-hkg1.steamserver.net:27021) starting...
+[2026-10-08 22:51:44] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp2-sea1.steamserver.net:443) starting...
+[2026-10-08 22:51:45] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp2-iad1.steamserver.net:27018) failed talking to cm (timeout/neterror - Invalid)
+[2026-10-08 22:51:45] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (ext1-maa2.steamserver.net:27032) failed talking to cm (timeout/neterror - Invalid)
+[2026-10-08 22:51:45] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp2-hkg1.steamserver.net:27021) starting...
+[2026-10-08 22:51:45] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp2-lax1.steamserver.net:27018) starting...
+[2026-10-08 22:51:45] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp1-hkg1.steamserver.net:27021) failed talking to cm (timeout/neterror - Invalid)
+[2026-10-08 22:51:45] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp2-sea1.steamserver.net:443) failed talking to cm (timeout/neterror - Invalid)
+[2026-10-08 22:51:45] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (ext2-bom2.steamserver.net:27032) starting...
+[2026-10-08 22:51:45] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp2-sea1.steamserver.net:27018) starting...
+[2026-10-08 22:51:46] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp2-lax1.steamserver.net:27018) failed talking to cm (timeout/neterror - Invalid)
+[2026-10-08 22:51:46] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp2-hkg1.steamserver.net:27021) failed talking to cm (timeout/neterror - Invalid)
+[2026-10-08 22:51:46] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (ext2-bom2.steamserver.net:27032) failed talking to cm (timeout/neterror - Invalid)
+[2026-10-08 22:51:46] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp2-sea1.steamserver.net:27018) failed talking to cm (timeout/neterror - Invalid)
+[2026-10-08 22:51:46] [Connecting, 4, 3] [A:1:0:0] Connect() starting connection (eNetQOSLevelMedium, cmp2-sgp1.steamserver.net:27020, WebSocket)
+[2026-10-08 22:52:07] [Connecting, 4, 0] [A:1:0:0] ConnectFailed('Connection Failed':0) (0.0.0.0:0, WebSocket)
+[2026-10-08 22:52:07] [Connecting, 4, 0] [A:1:0:0] Client thinks it can connect via: UDP - yes, TCP - yes, WebSocket:443 - yes, WebSocket:Non443 - yes
+[2026-10-08 22:52:07] [Logged Off, 4, 0] [A:1:0:0] StartAutoReconnect() will start in 3.0 seconds (attempt 1)
+[2026-10-08 22:52:07] IPv6 HTTP connectivity test (ipv6check-http.steamserver.net / 0.0.0.0:80 (0.0.0.0:80)) - TIMEOUT
+[2026-10-08 22:52:07] IPv6 UDP connectivity test (ipv6check-udp.steamserver.net) - FAILED, no addresses resolved
+[2026-10-08 22:52:10] CCMInterface::YieldingConnect -- calling ISteamDirectory/GetCMListForConnect/?cellid=158&qoslevel=2
+[2026-10-08 22:52:31] GetCMListForConnect -- web API call failed (status = 0)
+[2026-10-08 22:52:31] No NetFilter CMs, defaulting to WebSockets
+[2026-10-08 22:52:31] [Connecting, 4, 0] [A:1:0:0] Existing WebSocket ping data (cmp2-lax1.steamserver.net:27018) results: 100000.0000ms + load 0.0000 (45 seconds ago)
+[2026-10-08 22:52:31] [Connecting, 4, 0] [A:1:0:0] Existing WebSocket ping data (cmp2-hkg1.steamserver.net:27021) results: 100000.0000ms + load 0.0000 (45 seconds ago)
+[2026-10-08 22:52:31] [Connecting, 4, 0] [A:1:0:0] Existing WebSocket ping data (cmp2-sea1.steamserver.net:443) results: 100000.0000ms + load 0.0000 (46 seconds ago)
+[2026-10-08 22:52:31] [Connecting, 4, 0] [A:1:0:0] Existing WebSocket ping data (cmp1-hkg1.steamserver.net:27021) results: 100000.0000ms + load 0.0000 (46 seconds ago)
+[2026-10-08 22:52:31] [Connecting, 4, 0] [A:1:0:0] Existing WebSocket ping data (ext1-maa2.steamserver.net:27032) results: 100000.0000ms + load 0.0000 (46 seconds ago)
+[2026-10-08 22:52:31] [Connecting, 4, 0] [A:1:0:0] Existing WebSocket ping data (cmp2-iad1.steamserver.net:27018) results: 100000.0000ms + load 0.0000 (46 seconds ago)
+[2026-10-08 22:52:31] [Connecting, 4, 0] [A:1:0:0] Existing WebSocket ping data (cmp2-tyo3.steamserver.net:443) results: 100000.0000ms + load 0.0000 (47 seconds ago)
+[2026-10-08 22:52:31] [Connecting, 4, 0] [A:1:0:0] Existing WebSocket ping data (ext1-bom2.steamserver.net:27037) results: 100000.0000ms + load 0.0000 (47 seconds ago)
+[2026-10-08 22:52:31] [Connecting, 4, 0] [A:1:0:0] Existing WebSocket ping data (ext2-maa2.steamserver.net:27034) results: 100000.0000ms + load 0.0000 (47 seconds ago)
+[2026-10-08 22:52:31] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp2-sgp1.steamserver.net:27020) starting...
+[2026-10-08 22:52:31] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (ext2-maa2.steamserver.net:27034) starting...
+[2026-10-08 22:52:31] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (ext1-bom2.steamserver.net:27037) starting...
+[2026-10-08 22:52:31] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp2-tyo3.steamserver.net:443) starting...
+[2026-10-08 22:52:32] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (ext2-maa2.steamserver.net:27034) failed talking to cm (timeout/neterror - Invalid)
+[2026-10-08 22:52:32] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp2-sgp1.steamserver.net:27020) failed talking to cm (timeout/neterror - Invalid)
+[2026-10-08 22:52:32] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (ext1-bom2.steamserver.net:27037) failed talking to cm (timeout/neterror - Invalid)
+[2026-10-08 22:52:32] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp2-tyo3.steamserver.net:443) failed talking to cm (timeout/neterror - Invalid)
+[2026-10-08 22:52:32] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp2-iad1.steamserver.net:27018) starting...
+[2026-10-08 22:52:32] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (ext1-maa2.steamserver.net:27032) starting...
+[2026-10-08 22:52:32] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp1-hkg1.steamserver.net:27021) starting...
+[2026-10-08 22:52:32] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp2-sea1.steamserver.net:443) starting...
+[2026-10-08 22:52:33] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp2-iad1.steamserver.net:27018) failed talking to cm (timeout/neterror - Invalid)
+[2026-10-08 22:52:33] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (ext1-maa2.steamserver.net:27032) failed talking to cm (timeout/neterror - Invalid)
+[2026-10-08 22:52:33] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp2-sea1.steamserver.net:443) failed talking to cm (timeout/neterror - Invalid)
+[2026-10-08 22:52:33] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp1-hkg1.steamserver.net:27021) failed talking to cm (timeout/neterror - Invalid)
+[2026-10-08 22:52:33] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp2-hkg1.steamserver.net:27021) starting...
+[2026-10-08 22:52:33] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp2-lax1.steamserver.net:27018) starting...
+[2026-10-08 22:52:33] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (ext1-bom2.steamserver.net:27025) starting...
+[2026-10-08 22:52:33] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp2-tyo3.steamserver.net:27018) starting...
+[2026-10-08 22:52:34] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (ext1-bom2.steamserver.net:27025) failed talking to cm (timeout/neterror - Invalid)
+[2026-10-08 22:52:34] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp2-tyo3.steamserver.net:27018) failed talking to cm (timeout/neterror - Invalid)
+[2026-10-08 22:52:34] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp2-hkg1.steamserver.net:27021) failed talking to cm (timeout/neterror - Invalid)
+[2026-10-08 22:52:34] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp2-lax1.steamserver.net:27018) failed talking to cm (timeout/neterror - Invalid)
+[2026-10-08 22:52:34] [Connecting, 4, 7] [A:1:0:0] Connect() starting connection (eNetQOSLevelMedium, cmp2-sgp1.steamserver.net:27020, WebSocket)
+[2026-10-08 22:52:55] [Connecting, 4, 0] [A:1:0:0] ConnectFailed('Connection Failed':0) (0.0.0.0:0, WebSocket)
+[2026-10-08 22:52:55] [Connecting, 4, 0] [A:1:0:0] Client thinks it can connect via: UDP - yes, TCP - yes, WebSocket:443 - yes, WebSocket:Non443 - yes
+[2026-10-08 22:52:55] [Logged Off, 4, 0] [A:1:0:0] StartAutoReconnect() will start in 4.0 seconds (attempt 2)
+[2026-10-08 22:52:55] IPv6 HTTP connectivity test (ipv6check-http.steamserver.net / 0.0.0.0:80 (0.0.0.0:80)) - TIMEOUT
+[2026-10-08 22:52:55] IPv6 UDP connectivity test (ipv6check-udp.steamserver.net) - FAILED, no addresses resolved
+[2026-10-08 22:52:59] CCMInterface::YieldingConnect -- calling ISteamDirectory/GetCMListForConnect/?cellid=158&qoslevel=2
+
+
+[2026-10-08 22:55:35] Client version: no bootstrapper found
+[2026-10-08 22:55:35] Log session started
+[2026-10-08 22:55:35] [Logged Off, 0, 0] [A:1:0:0] CCMInterface::SetSteamID( [A:1:0:0] )
+[2026-10-08 22:55:35] Log session started
+[2026-10-08 22:55:35] [Logged Off, 4, 0] [A:1:0:0] EConnect called - scheduling connection for 50ms from now
+[2026-10-08 22:55:35] Log session started
+[2026-10-08 22:55:35] [Logged Off, 4, 0] [A:1:0:0] LogOn() called; not connected yet, scheduling connection. Schedule init returned 22
+[2026-10-08 22:55:35] [Logged Off, 4, 0] [A:1:0:0] EConnect called - scheduling connection for 50ms from now
+[2026-10-08 22:55:35] IPv6 HTTP connectivity test (ipv6check-http.steamserver.net / 0.0.0.0:80 (0.0.0.0:80)) - TIMEOUT
+[2026-10-08 22:55:35] IPv6 UDP connectivity test (ipv6check-udp.steamserver.net) - FAILED, no addresses resolved
+[2026-10-08 22:55:35] CCMInterface::YieldingConnect -- calling ISteamDirectory/GetCMListForConnect/?cellid=158&qoslevel=2
+[2026-10-08 22:55:57] GetCMListForConnect -- web API call failed (status = 0)
+[2026-10-08 22:55:57] No NetFilter CMs, defaulting to WebSockets
+[2026-10-08 22:55:57] [Connecting, 4, 0] [A:1:0:0] Existing WebSocket ping data (cmp2-sea1.steamserver.net:443) results: 100000.0000ms + load 0.0000 (204 seconds ago)
+[2026-10-08 22:55:57] [Connecting, 4, 0] [A:1:0:0] Existing WebSocket ping data (cmp2-tyo3.steamserver.net:443) results: 100000.0000ms + load 0.0000 (205 seconds ago)
+[2026-10-08 22:55:57] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp2-tyo3.steamserver.net:443) starting...
+[2026-10-08 22:55:57] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp2-sea1.steamserver.net:443) starting...
+[2026-10-08 22:55:57] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (ext1-maa2.steamserver.net:27037) starting...
+[2026-10-08 22:55:57] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp2-dfw2.steamserver.net:27018) starting...
+[2026-10-08 22:55:58] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (ext1-maa2.steamserver.net:27037) failed talking to cm (timeout/neterror - Invalid)
+[2026-10-08 22:55:58] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp2-dfw2.steamserver.net:27018) failed talking to cm (timeout/neterror - Invalid)
+[2026-10-08 22:55:58] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp2-tyo3.steamserver.net:443) failed talking to cm (timeout/neterror - Invalid)
+[2026-10-08 22:55:58] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp2-sea1.steamserver.net:443) failed talking to cm (timeout/neterror - Invalid)
+[2026-10-08 22:55:58] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp3-hkg1.steamserver.net:27018) starting...
+[2026-10-08 22:55:58] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (ext2-maa2.steamserver.net:27028) starting...
+[2026-10-08 22:55:58] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp3-hkg1.steamserver.net:27020) starting...
+[2026-10-08 22:55:58] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp1-ord1.steamserver.net:443) starting...
+[2026-10-08 22:55:59] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp3-hkg1.steamserver.net:27018) failed talking to cm (timeout/neterror - Invalid)
+[2026-10-08 22:55:59] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp3-hkg1.steamserver.net:27020) failed talking to cm (timeout/neterror - Invalid)
+[2026-10-08 22:55:59] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp1-ord1.steamserver.net:443) failed talking to cm (timeout/neterror - Invalid)
+[2026-10-08 22:55:59] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (ext2-maa2.steamserver.net:27028) failed talking to cm (timeout/neterror - Invalid)
+[2026-10-08 22:55:59] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp2-sgp1.steamserver.net:27019) starting...
+[2026-10-08 22:55:59] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (ext2-bom2.steamserver.net:27038) starting...
+[2026-10-08 22:55:59] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (ext2-maa2.steamserver.net:27032) starting...
+[2026-10-08 22:55:59] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp2-hkg1.steamserver.net:27025) starting...
+[2026-10-08 22:56:00] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (ext2-maa2.steamserver.net:27032) failed talking to cm (timeout/neterror - Invalid)
+[2026-10-08 22:56:00] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp2-hkg1.steamserver.net:27025) failed talking to cm (timeout/neterror - Invalid)
+[2026-10-08 22:56:00] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp2-sgp1.steamserver.net:27019) failed talking to cm (timeout/neterror - Invalid)
+[2026-10-08 22:56:00] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (ext2-bom2.steamserver.net:27038) failed talking to cm (timeout/neterror - Invalid)
+[2026-10-08 22:56:00] [Connecting, 4, 3] [A:1:0:0] Connect() starting connection (eNetQOSLevelMedium, cmp2-tyo3.steamserver.net:443, WebSocket)
+[2026-10-08 22:56:21] [Connecting, 4, 0] [A:1:0:0] ConnectFailed('Connection Failed':0) (0.0.0.0:0, WebSocket)
+[2026-10-08 22:56:21] [Connecting, 4, 0] [A:1:0:0] Client thinks it can connect via: UDP - yes, TCP - yes, WebSocket:443 - yes, WebSocket:Non443 - yes
+[2026-10-08 22:56:21] [Logged Off, 4, 0] [A:1:0:0] StartAutoReconnect() will start in 7.0 seconds (attempt 1)
+[2026-10-08 22:56:21] IPv6 HTTP connectivity test (ipv6check-http.steamserver.net / 0.0.0.0:80 (0.0.0.0:80)) - TIMEOUT
+[2026-10-08 22:56:21] IPv6 UDP connectivity test (ipv6check-udp.steamserver.net) - FAILED, no addresses resolved
+[2026-10-08 22:56:28] CCMInterface::YieldingConnect -- calling ISteamDirectory/GetCMListForConnect/?cellid=158&qoslevel=2
+[2026-10-08 22:56:49] GetCMListForConnect -- web API call failed (status = 0)
+[2026-10-08 22:56:49] No NetFilter CMs, defaulting to WebSockets
+[2026-10-08 22:56:49] [Connecting, 4, 0] [A:1:0:0] Existing WebSocket ping data (ext2-bom2.steamserver.net:27038) results: 100000.0000ms + load 0.0000 (49 seconds ago)
+[2026-10-08 22:56:49] [Connecting, 4, 0] [A:1:0:0] Existing WebSocket ping data (cmp2-sgp1.steamserver.net:27019) results: 100000.0000ms + load 0.0000 (49 seconds ago)
+[2026-10-08 22:56:49] [Connecting, 4, 0] [A:1:0:0] Existing WebSocket ping data (cmp1-ord1.steamserver.net:443) results: 100000.0000ms + load 0.0000 (50 seconds ago)
+[2026-10-08 22:56:49] [Connecting, 4, 0] [A:1:0:0] Existing WebSocket ping data (cmp3-hkg1.steamserver.net:27020) results: 100000.0000ms + load 0.0000 (50 seconds ago)
+[2026-10-08 22:56:49] [Connecting, 4, 0] [A:1:0:0] Existing WebSocket ping data (ext2-maa2.steamserver.net:27028) results: 100000.0000ms + load 0.0000 (50 seconds ago)
+[2026-10-08 22:56:49] [Connecting, 4, 0] [A:1:0:0] Existing WebSocket ping data (cmp3-hkg1.steamserver.net:27018) results: 100000.0000ms + load 0.0000 (50 seconds ago)
+[2026-10-08 22:56:49] [Connecting, 4, 0] [A:1:0:0] Existing WebSocket ping data (cmp2-dfw2.steamserver.net:27018) results: 100000.0000ms + load 0.0000 (51 seconds ago)
+[2026-10-08 22:56:49] [Connecting, 4, 0] [A:1:0:0] Existing WebSocket ping data (ext1-maa2.steamserver.net:27037) results: 100000.0000ms + load 0.0000 (51 seconds ago)
+[2026-10-08 22:56:49] [Connecting, 4, 0] [A:1:0:0] Existing WebSocket ping data (cmp2-sea1.steamserver.net:443) results: 100000.0000ms + load 0.0000 (51 seconds ago)
+[2026-10-08 22:56:49] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp2-tyo3.steamserver.net:443) starting...
+[2026-10-08 22:56:49] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp2-sea1.steamserver.net:443) starting...
+[2026-10-08 22:56:49] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (ext1-maa2.steamserver.net:27037) starting...
+[2026-10-08 22:56:49] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp2-dfw2.steamserver.net:27018) starting...
+[2026-10-08 22:56:50] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp2-sea1.steamserver.net:443) failed talking to cm (timeout/neterror - Invalid)
+[2026-10-08 22:56:50] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp2-tyo3.steamserver.net:443) failed talking to cm (timeout/neterror - Invalid)
+[2026-10-08 22:56:50] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (ext1-maa2.steamserver.net:27037) failed talking to cm (timeout/neterror - Invalid)
+[2026-10-08 22:56:50] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp2-dfw2.steamserver.net:27018) failed talking to cm (timeout/neterror - Invalid)
+[2026-10-08 22:56:50] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp3-hkg1.steamserver.net:27018) starting...
+[2026-10-08 22:56:50] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (ext2-maa2.steamserver.net:27028) starting...
+[2026-10-08 22:56:50] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp3-hkg1.steamserver.net:27020) starting...
+[2026-10-08 22:56:50] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp1-ord1.steamserver.net:443) starting...
+[2026-10-08 22:56:51] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp3-hkg1.steamserver.net:27018) failed talking to cm (timeout/neterror - Invalid)
+[2026-10-08 22:56:51] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (ext2-maa2.steamserver.net:27028) failed talking to cm (timeout/neterror - Invalid)
+[2026-10-08 22:56:51] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp1-ord1.steamserver.net:443) failed talking to cm (timeout/neterror - Invalid)
+[2026-10-08 22:56:51] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp3-hkg1.steamserver.net:27020) failed talking to cm (timeout/neterror - Invalid)
+[2026-10-08 22:56:51] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp2-sgp1.steamserver.net:27019) starting...
+[2026-10-08 22:56:51] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (ext2-bom2.steamserver.net:27038) starting...
+[2026-10-08 22:56:51] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp1-dfw2.steamserver.net:27018) starting...
+[2026-10-08 22:56:51] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (ext2-maa2.steamserver.net:27019) starting...
+[2026-10-08 22:56:52] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp1-dfw2.steamserver.net:27018) failed talking to cm (timeout/neterror - Invalid)
+[2026-10-08 22:56:52] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (ext2-maa2.steamserver.net:27019) failed talking to cm (timeout/neterror - Invalid)
+[2026-10-08 22:56:52] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp2-sgp1.steamserver.net:27019) failed talking to cm (timeout/neterror - Invalid)
+[2026-10-08 22:56:52] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (ext2-bom2.steamserver.net:27038) failed talking to cm (timeout/neterror - Invalid)
+[2026-10-08 22:56:52] [Connecting, 4, 7] [A:1:0:0] Connect() starting connection (eNetQOSLevelMedium, cmp2-tyo3.steamserver.net:443, WebSocket)
+
+
+[2026-10-08 22:59:18] Client version: no bootstrapper found
+[2026-10-08 22:59:18] Log session started
+[2026-10-08 22:59:18] [Logged Off, 0, 0] [A:1:0:0] CCMInterface::SetSteamID( [A:1:0:0] )
+[2026-10-08 22:59:18] Log session started
+[2026-10-08 22:59:18] [Logged Off, 4, 0] [A:1:0:0] EConnect called - scheduling connection for 50ms from now
+[2026-10-08 22:59:18] Log session started
+[2026-10-08 22:59:18] [Logged Off, 4, 0] [A:1:0:0] LogOn() called; not connected yet, scheduling connection. Schedule init returned 22
+[2026-10-08 22:59:18] [Logged Off, 4, 0] [A:1:0:0] EConnect called - scheduling connection for 50ms from now
+[2026-10-08 22:59:18] IPv6 HTTP connectivity test (ipv6check-http.steamserver.net / 0.0.0.0:80 (0.0.0.0:80)) - TIMEOUT
+[2026-10-08 22:59:18] IPv6 UDP connectivity test (ipv6check-udp.steamserver.net) - FAILED, no addresses resolved
+[2026-10-08 22:59:18] CCMInterface::YieldingConnect -- calling ISteamDirectory/GetCMListForConnect/?cellid=158&qoslevel=2
+[2026-10-08 22:59:39] GetCMListForConnect -- web API call failed (status = 0)
+[2026-10-08 22:59:39] No NetFilter CMs, defaulting to WebSockets
+[2026-10-08 22:59:39] [Connecting, 4, 0] [A:1:0:0] Existing WebSocket ping data (ext2-maa2.steamserver.net:27019) results: 100000.0000ms + load 0.0000 (167 seconds ago)
+[2026-10-08 22:59:39] [Connecting, 4, 0] [A:1:0:0] Existing WebSocket ping data (cmp1-hkg1.steamserver.net:27021) results: 100000.0000ms + load 0.0000 (426 seconds ago)
+[2026-10-08 22:59:39] [Connecting, 4, 0] [A:1:0:0] Existing WebSocket ping data (cmp1-ord1.steamserver.net:443) results: 100000.0000ms + load 0.0000 (168 seconds ago)
+[2026-10-08 22:59:39] [Connecting, 4, 0] [A:1:0:0] Existing WebSocket ping data (cmp2-dfw2.steamserver.net:27018) results: 100000.0000ms + load 0.0000 (169 seconds ago)
+[2026-10-08 22:59:39] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp2-dfw2.steamserver.net:27018) starting...
+[2026-10-08 22:59:39] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp1-ord1.steamserver.net:443) starting...
+[2026-10-08 22:59:39] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (ext1-maa2.steamserver.net:27023) starting...
+[2026-10-08 22:59:39] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp2-atl3.steamserver.net:27018) starting...
+[2026-10-08 22:59:40] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (ext1-maa2.steamserver.net:27023) failed talking to cm (timeout/neterror - Invalid)
+[2026-10-08 22:59:40] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp2-dfw2.steamserver.net:27018) failed talking to cm (timeout/neterror - Invalid)
+[2026-10-08 22:59:40] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp1-ord1.steamserver.net:443) failed talking to cm (timeout/neterror - Invalid)
+[2026-10-08 22:59:40] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp1-hkg1.steamserver.net:27018) starting...
+[2026-10-08 22:59:40] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp1-sgp1.steamserver.net:27020) starting...
+[2026-10-08 22:59:40] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp1-hkg1.steamserver.net:27021) starting...
+[2026-10-08 22:59:40] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp2-atl3.steamserver.net:27018) failed talking to cm (timeout/neterror - Invalid)
+[2026-10-08 22:59:40] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (ext1-bom2.steamserver.net:27034) starting...
+[2026-10-08 22:59:41] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp1-hkg1.steamserver.net:27018) failed talking to cm (timeout/neterror - Invalid)
+[2026-10-08 22:59:41] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp1-hkg1.steamserver.net:27021) failed talking to cm (timeout/neterror - Invalid)
+[2026-10-08 22:59:41] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp1-sgp1.steamserver.net:27020) failed talking to cm (timeout/neterror - Invalid)
+[2026-10-08 22:59:41] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (ext2-maa2.steamserver.net:27019) starting...
+[2026-10-08 22:59:41] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp1-sgp1.steamserver.net:443) starting...
+[2026-10-08 22:59:41] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp1-syd1.steamserver.net:27018) starting...
+[2026-10-08 22:59:41] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (ext1-bom2.steamserver.net:27034) failed talking to cm (timeout/neterror - Invalid)
+[2026-10-08 22:59:41] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (ext1-maa2.steamserver.net:27020) starting...
+[2026-10-08 22:59:42] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp1-syd1.steamserver.net:27018) failed talking to cm (timeout/neterror - Invalid)
+[2026-10-08 22:59:42] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp1-sgp1.steamserver.net:443) failed talking to cm (timeout/neterror - Invalid)
+[2026-10-08 22:59:42] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (ext2-maa2.steamserver.net:27019) failed talking to cm (timeout/neterror - Invalid)
+[2026-10-08 22:59:42] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (ext1-maa2.steamserver.net:27020) failed talking to cm (timeout/neterror - Invalid)
+[2026-10-08 22:59:42] [Connecting, 4, 3] [A:1:0:0] Connect() starting connection (eNetQOSLevelMedium, cmp2-dfw2.steamserver.net:27018, WebSocket)
+[2026-10-08 23:00:03] [Connecting, 4, 0] [A:1:0:0] ConnectFailed('Connection Failed':0) (0.0.0.0:0, WebSocket)
+[2026-10-08 23:00:03] [Connecting, 4, 0] [A:1:0:0] Client thinks it can connect via: UDP - yes, TCP - yes, WebSocket:443 - yes, WebSocket:Non443 - yes
+[2026-10-08 23:00:03] [Logged Off, 4, 0] [A:1:0:0] StartAutoReconnect() will start in 3.0 seconds (attempt 1)
+[2026-10-08 23:00:03] IPv6 HTTP connectivity test (ipv6check-http.steamserver.net / 0.0.0.0:80 (0.0.0.0:80)) - TIMEOUT
+[2026-10-08 23:00:03] IPv6 UDP connectivity test (ipv6check-udp.steamserver.net) - FAILED, no addresses resolved
+[2026-10-08 23:00:06] CCMInterface::YieldingConnect -- calling ISteamDirectory/GetCMListForConnect/?cellid=158&qoslevel=2
+
+
+[2026-10-08 23:02:44] Client version: no bootstrapper found
+[2026-10-08 23:02:44] Log session started
+[2026-10-08 23:02:44] [Logged Off, 0, 0] [A:1:0:0] CCMInterface::SetSteamID( [A:1:0:0] )
+[2026-10-08 23:02:44] Log session started
+[2026-10-08 23:02:44] [Logged Off, 4, 0] [A:1:0:0] EConnect called - scheduling connection for 50ms from now
+[2026-10-08 23:02:44] Log session started
+[2026-10-08 23:02:44] [Logged Off, 4, 0] [A:1:0:0] LogOn() called; not connected yet, scheduling connection. Schedule init returned 22
+[2026-10-08 23:02:44] IPv6 HTTP connectivity test (ipv6check-http.steamserver.net / 0.0.0.0:80 (0.0.0.0:80)) - TIMEOUT
+[2026-10-08 23:02:44] IPv6 UDP connectivity test (ipv6check-udp.steamserver.net) - FAILED, no addresses resolved
+[2026-10-08 23:02:44] [Logged Off, 4, 0] [A:1:0:0] EConnect called - scheduling connection for 50ms from now
+[2026-10-08 23:02:44] CCMInterface::YieldingConnect -- calling ISteamDirectory/GetCMListForConnect/?cellid=158&qoslevel=2
+[2026-10-08 23:03:05] GetCMListForConnect -- web API call failed (status = 0)
+[2026-10-08 23:03:05] No NetFilter CMs, defaulting to WebSockets
+[2026-10-08 23:03:05] [Connecting, 4, 0] [A:1:0:0] Existing WebSocket ping data (cmp1-hkg1.steamserver.net:27018) results: 100000.0000ms + load 0.0000 (204 seconds ago)
+[2026-10-08 23:03:05] [Connecting, 4, 0] [A:1:0:0] Existing WebSocket ping data (cmp3-hkg1.steamserver.net:27020) results: 100000.0000ms + load 0.0000 (374 seconds ago)
+[2026-10-08 23:03:05] [Connecting, 4, 0] [A:1:0:0] Existing WebSocket ping data (cmp1-syd1.steamserver.net:27018) results: 100000.0000ms + load 0.0000 (203 seconds ago)
+[2026-10-08 23:03:05] [Connecting, 4, 0] [A:1:0:0] Existing WebSocket ping data (cmp1-sgp1.steamserver.net:443) results: 100000.0000ms + load 0.0000 (203 seconds ago)
+[2026-10-08 23:03:05] [Connecting, 4, 0] [A:1:0:0] Existing WebSocket ping data (ext2-maa2.steamserver.net:27019) results: 100000.0000ms + load 0.0000 (203 seconds ago)
+[2026-10-08 23:03:05] [Connecting, 4, 0] [A:1:0:0] Existing WebSocket ping data (cmp1-sgp1.steamserver.net:27020) results: 100000.0000ms + load 0.0000 (204 seconds ago)
+[2026-10-08 23:03:05] [Connecting, 4, 0] [A:1:0:0] Existing WebSocket ping data (cmp2-atl3.steamserver.net:27018) results: 100000.0000ms + load 0.0000 (205 seconds ago)
+[2026-10-08 23:03:05] [Connecting, 4, 0] [A:1:0:0] Existing WebSocket ping data (cmp1-ord1.steamserver.net:443) results: 100000.0000ms + load 0.0000 (205 seconds ago)
+[2026-10-08 23:03:05] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp1-ord1.steamserver.net:443) starting...
+[2026-10-08 23:03:05] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp2-atl3.steamserver.net:27018) starting...
+[2026-10-08 23:03:05] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp1-sgp1.steamserver.net:27020) starting...
+[2026-10-08 23:03:05] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (ext2-maa2.steamserver.net:27019) starting...
+[2026-10-08 23:03:06] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp1-ord1.steamserver.net:443) failed talking to cm (timeout/neterror - Invalid)
+[2026-10-08 23:03:06] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (ext2-maa2.steamserver.net:27019) failed talking to cm (timeout/neterror - Invalid)
+[2026-10-08 23:03:06] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp2-atl3.steamserver.net:27018) failed talking to cm (timeout/neterror - Invalid)
+[2026-10-08 23:03:06] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp1-sgp1.steamserver.net:27020) failed talking to cm (timeout/neterror - Invalid)
+[2026-10-08 23:03:06] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (ext2-maa2.steamserver.net:27035) starting...
+[2026-10-08 23:03:06] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp1-sgp1.steamserver.net:443) starting...
+[2026-10-08 23:03:06] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp1-syd1.steamserver.net:27018) starting...
+[2026-10-08 23:03:06] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp2-ord1.steamserver.net:27018) starting...
+[2026-10-08 23:03:07] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp1-sgp1.steamserver.net:443) failed talking to cm (timeout/neterror - Invalid)
+[2026-10-08 23:03:07] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (ext2-maa2.steamserver.net:27035) failed talking to cm (timeout/neterror - Invalid)
+[2026-10-08 23:03:07] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp1-syd1.steamserver.net:27018) failed talking to cm (timeout/neterror - Invalid)
+[2026-10-08 23:03:07] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp2-ord1.steamserver.net:27018) failed talking to cm (timeout/neterror - Invalid)
+[2026-10-08 23:03:07] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp1-atl3.steamserver.net:27018) starting...
+[2026-10-08 23:03:07] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp3-hkg1.steamserver.net:27020) starting...
+[2026-10-08 23:03:07] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp1-sgp1.steamserver.net:27018) starting...
+[2026-10-08 23:03:07] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp1-hkg1.steamserver.net:27018) starting...
+[2026-10-08 23:03:08] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp1-sgp1.steamserver.net:27018) failed talking to cm (timeout/neterror - Invalid)
+[2026-10-08 23:03:08] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp1-hkg1.steamserver.net:27018) failed talking to cm (timeout/neterror - Invalid)
+[2026-10-08 23:03:08] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp1-atl3.steamserver.net:27018) failed talking to cm (timeout/neterror - Invalid)
+[2026-10-08 23:03:08] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp3-hkg1.steamserver.net:27020) failed talking to cm (timeout/neterror - Invalid)
+[2026-10-08 23:03:08] [Connecting, 4, 3] [A:1:0:0] Connect() starting connection (eNetQOSLevelMedium, cmp1-ord1.steamserver.net:443, WebSocket)
+
+
+[2026-10-08 23:05:11] Client version: no bootstrapper found
+[2026-10-08 23:05:11] Log session started
+[2026-10-08 23:05:11] [Logged Off, 0, 0] [A:1:0:0] CCMInterface::SetSteamID( [A:1:0:0] )
+[2026-10-08 23:05:11] Log session started
+[2026-10-08 23:05:11] [Logged Off, 4, 0] [A:1:0:0] EConnect called - scheduling connection for 50ms from now
+[2026-10-08 23:05:11] Log session started
+[2026-10-08 23:05:11] [Logged Off, 4, 0] [A:1:0:0] LogOn() called; not connected yet, scheduling connection. Schedule init returned 22
+[2026-10-08 23:05:11] IPv6 HTTP connectivity test (ipv6check-http.steamserver.net / 0.0.0.0:80 (0.0.0.0:80)) - TIMEOUT
+[2026-10-08 23:05:11] IPv6 UDP connectivity test (ipv6check-udp.steamserver.net) - FAILED, no addresses resolved
+[2026-10-08 23:05:11] [Logged Off, 4, 0] [A:1:0:0] EConnect called - scheduling connection for 50ms from now
+[2026-10-08 23:05:11] CCMInterface::YieldingConnect -- calling ISteamDirectory/GetCMListForConnect/?cellid=158&qoslevel=2
+[2026-10-08 23:05:32] GetCMListForConnect -- web API call failed (status = 0)
+[2026-10-08 23:05:32] No NetFilter CMs, defaulting to WebSockets
+[2026-10-08 23:05:32] [Connecting, 4, 0] [A:1:0:0] Existing WebSocket ping data (cmp3-hkg1.steamserver.net:27018) results: 100000.0000ms + load 0.0000 (521 seconds ago)
+[2026-10-08 23:05:32] [Connecting, 4, 0] [A:1:0:0] Existing WebSocket ping data (cmp2-iad1.steamserver.net:27018) results: 100000.0000ms + load 0.0000 (779 seconds ago)
+[2026-10-08 23:05:32] [Connecting, 4, 0] [A:1:0:0] Existing WebSocket ping data (ext2-bom2.steamserver.net:27032) results: 100000.0000ms + load 0.0000 (826 seconds ago)
+[2026-10-08 23:05:32] [Connecting, 4, 0] [A:1:0:0] Existing WebSocket ping data (cmp3-hkg1.steamserver.net:27020) results: 100000.0000ms + load 0.0000 (144 seconds ago)
+[2026-10-08 23:05:32] [Connecting, 4, 0] [A:1:0:0] Existing WebSocket ping data (cmp1-atl3.steamserver.net:27018) results: 100000.0000ms + load 0.0000 (144 seconds ago)
+[2026-10-08 23:05:32] [Connecting, 4, 0] [A:1:0:0] Existing WebSocket ping data (cmp2-ord1.steamserver.net:27018) results: 100000.0000ms + load 0.0000 (145 seconds ago)
+[2026-10-08 23:05:32] [Connecting, 4, 0] [A:1:0:0] Existing WebSocket ping data (cmp1-sgp1.steamserver.net:443) results: 100000.0000ms + load 0.0000 (145 seconds ago)
+[2026-10-08 23:05:32] [Connecting, 4, 0] [A:1:0:0] Existing WebSocket ping data (ext2-maa2.steamserver.net:27035) results: 100000.0000ms + load 0.0000 (145 seconds ago)
+[2026-10-08 23:05:32] [Connecting, 4, 0] [A:1:0:0] Existing WebSocket ping data (cmp2-atl3.steamserver.net:27018) results: 100000.0000ms + load 0.0000 (146 seconds ago)
+[2026-10-08 23:05:32] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp2-atl3.steamserver.net:27018) starting...
+[2026-10-08 23:05:32] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp2-ord1.steamserver.net:443) starting...
+[2026-10-08 23:05:32] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (ext2-maa2.steamserver.net:27035) starting...
+[2026-10-08 23:05:32] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp1-sgp1.steamserver.net:443) starting...
+[2026-10-08 23:05:33] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp2-atl3.steamserver.net:27018) failed talking to cm (timeout/neterror - Invalid)
+[2026-10-08 23:05:33] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp1-sgp1.steamserver.net:443) failed talking to cm (timeout/neterror - Invalid)
+[2026-10-08 23:05:33] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp2-ord1.steamserver.net:443) failed talking to cm (timeout/neterror - Invalid)
+[2026-10-08 23:05:33] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (ext2-maa2.steamserver.net:27035) failed talking to cm (timeout/neterror - Invalid)
+[2026-10-08 23:05:33] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp2-ord1.steamserver.net:27018) starting...
+[2026-10-08 23:05:33] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp1-atl3.steamserver.net:27018) starting...
+[2026-10-08 23:05:33] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp3-hkg1.steamserver.net:27020) starting...
+[2026-10-08 23:05:33] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (ext2-bom2.steamserver.net:27032) starting...
+[2026-10-08 23:05:34] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp2-ord1.steamserver.net:27018) failed talking to cm (timeout/neterror - Invalid)
+[2026-10-08 23:05:34] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp3-hkg1.steamserver.net:27020) failed talking to cm (timeout/neterror - Invalid)
+[2026-10-08 23:05:34] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (ext2-bom2.steamserver.net:27032) failed talking to cm (timeout/neterror - Invalid)
+[2026-10-08 23:05:34] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp1-atl3.steamserver.net:27018) failed talking to cm (timeout/neterror - Invalid)
+[2026-10-08 23:05:34] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp2-syd1.steamserver.net:27018) starting...
+[2026-10-08 23:05:34] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp2-iad1.steamserver.net:27018) starting...
+[2026-10-08 23:05:34] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp2-tyo3.steamserver.net:27020) starting...
+[2026-10-08 23:05:34] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp3-hkg1.steamserver.net:27018) starting...
+[2026-10-08 23:05:35] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp2-tyo3.steamserver.net:27020) failed talking to cm (timeout/neterror - Invalid)
+[2026-10-08 23:05:35] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp3-hkg1.steamserver.net:27018) failed talking to cm (timeout/neterror - Invalid)
+[2026-10-08 23:05:35] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp2-syd1.steamserver.net:27018) failed talking to cm (timeout/neterror - Invalid)
+[2026-10-08 23:05:35] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp2-iad1.steamserver.net:27018) failed talking to cm (timeout/neterror - Invalid)
+[2026-10-08 23:05:35] [Connecting, 4, 3] [A:1:0:0] Connect() starting connection (eNetQOSLevelMedium, cmp2-atl3.steamserver.net:27018, WebSocket)
+
+
+[2026-10-08 23:09:25] Client version: no bootstrapper found
+[2026-10-08 23:09:25] Log session started
+[2026-10-08 23:09:25] [Logged Off, 0, 0] [A:1:0:0] CCMInterface::SetSteamID( [A:1:0:0] )
+[2026-10-08 23:09:25] Log session started
+[2026-10-08 23:09:25] [Logged Off, 4, 0] [A:1:0:0] EConnect called - scheduling connection for 50ms from now
+[2026-10-08 23:09:25] Log session started
+[2026-10-08 23:09:25] [Logged Off, 4, 0] [A:1:0:0] LogOn() called; not connected yet, scheduling connection. Schedule init returned 22
+[2026-10-08 23:09:25] IPv6 HTTP connectivity test (ipv6check-http.steamserver.net / 0.0.0.0:80 (0.0.0.0:80)) - TIMEOUT
+[2026-10-08 23:09:25] IPv6 UDP connectivity test (ipv6check-udp.steamserver.net) - FAILED, no addresses resolved
+[2026-10-08 23:09:25] [Logged Off, 4, 0] [A:1:0:0] EConnect called - scheduling connection for 50ms from now
+[2026-10-08 23:09:25] CCMInterface::YieldingConnect -- calling ISteamDirectory/GetCMListForConnect/?cellid=158&qoslevel=2
+[2026-10-08 23:09:46] GetCMListForConnect -- web API call failed (status = 0)
+[2026-10-08 23:09:46] No NetFilter CMs, defaulting to WebSockets
+[2026-10-08 23:09:46] [Connecting, 4, 0] [A:1:0:0] Existing WebSocket ping data (ext2-maa2.steamserver.net:27032) results: 100000.0000ms + load 0.0000 (826 seconds ago)
+[2026-10-08 23:09:46] [Connecting, 4, 0] [A:1:0:0] Existing WebSocket ping data (ext2-maa2.steamserver.net:27028) results: 100000.0000ms + load 0.0000 (775 seconds ago)
+[2026-10-08 23:09:46] [Connecting, 4, 0] [A:1:0:0] Existing WebSocket ping data (cmp2-iad1.steamserver.net:27018) results: 100000.0000ms + load 0.0000 (251 seconds ago)
+[2026-10-08 23:09:46] [Connecting, 4, 0] [A:1:0:0] Existing WebSocket ping data (ext2-bom2.steamserver.net:27032) results: 100000.0000ms + load 0.0000 (252 seconds ago)
+[2026-10-08 23:09:46] [Connecting, 4, 0] [A:1:0:0] Existing WebSocket ping data (cmp1-atl3.steamserver.net:27018) results: 100000.0000ms + load 0.0000 (252 seconds ago)
+[2026-10-08 23:09:46] [Connecting, 4, 0] [A:1:0:0] Existing WebSocket ping data (cmp1-sgp1.steamserver.net:443) results: 100000.0000ms + load 0.0000 (253 seconds ago)
+[2026-10-08 23:09:46] [Connecting, 4, 0] [A:1:0:0] Existing WebSocket ping data (cmp2-ord1.steamserver.net:443) results: 100000.0000ms + load 0.0000 (253 seconds ago)
+[2026-10-08 23:09:46] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp2-ord1.steamserver.net:443) starting...
+[2026-10-08 23:09:46] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp1-sgp1.steamserver.net:443) starting...
+[2026-10-08 23:09:46] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp1-atl3.steamserver.net:27018) starting...
+[2026-10-08 23:09:46] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (ext2-bom2.steamserver.net:27032) starting...
+[2026-10-08 23:09:47] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp1-atl3.steamserver.net:27018) failed talking to cm (timeout/neterror - Invalid)
+[2026-10-08 23:09:47] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (ext2-bom2.steamserver.net:27032) failed talking to cm (timeout/neterror - Invalid)
+[2026-10-08 23:09:47] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp2-ord1.steamserver.net:443) failed talking to cm (timeout/neterror - Invalid)
+[2026-10-08 23:09:47] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp1-sgp1.steamserver.net:443) failed talking to cm (timeout/neterror - Invalid)
+[2026-10-08 23:09:47] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp2-iad1.steamserver.net:27018) starting...
+[2026-10-08 23:09:47] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp1-atl3.steamserver.net:443) starting...
+[2026-10-08 23:09:47] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (ext2-maa2.steamserver.net:27028) starting...
+[2026-10-08 23:09:47] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (ext2-maa2.steamserver.net:27032) starting...
+[2026-10-08 23:09:48] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp2-iad1.steamserver.net:27018) failed talking to cm (timeout/neterror - Invalid)
+[2026-10-08 23:09:48] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (ext2-maa2.steamserver.net:27028) failed talking to cm (timeout/neterror - Invalid)
+[2026-10-08 23:09:48] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (ext2-maa2.steamserver.net:27032) failed talking to cm (timeout/neterror - Invalid)
+[2026-10-08 23:09:48] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp1-atl3.steamserver.net:443) failed talking to cm (timeout/neterror - Invalid)
+[2026-10-08 23:09:48] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp1-iad1.steamserver.net:443) starting...
+[2026-10-08 23:09:48] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp1-hkg1.steamserver.net:27022) starting...
+[2026-10-08 23:09:48] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp1-hkg1.steamserver.net:27023) starting...
+[2026-10-08 23:09:48] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (ext1-maa2.steamserver.net:27038) starting...
+[2026-10-08 23:09:49] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp1-hkg1.steamserver.net:27023) failed talking to cm (timeout/neterror - Invalid)
+[2026-10-08 23:09:49] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (ext1-maa2.steamserver.net:27038) failed talking to cm (timeout/neterror - Invalid)
+[2026-10-08 23:09:49] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp1-iad1.steamserver.net:443) failed talking to cm (timeout/neterror - Invalid)
+[2026-10-08 23:09:49] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp1-hkg1.steamserver.net:27022) failed talking to cm (timeout/neterror - Invalid)
+[2026-10-08 23:09:49] [Connecting, 4, 3] [A:1:0:0] Connect() starting connection (eNetQOSLevelMedium, cmp2-ord1.steamserver.net:443, WebSocket)
+[2026-10-08 23:10:10] [Connecting, 4, 0] [A:1:0:0] ConnectFailed('Connection Failed':0) (0.0.0.0:0, WebSocket)
+[2026-10-08 23:10:10] [Connecting, 4, 0] [A:1:0:0] Client thinks it can connect via: UDP - yes, TCP - yes, WebSocket:443 - yes, WebSocket:Non443 - yes
+[2026-10-08 23:10:10] [Logged Off, 4, 0] [A:1:0:0] StartAutoReconnect() will start in 5.0 seconds (attempt 1)
+[2026-10-08 23:10:10] IPv6 HTTP connectivity test (ipv6check-http.steamserver.net / 0.0.0.0:80 (0.0.0.0:80)) - TIMEOUT
+[2026-10-08 23:10:10] IPv6 UDP connectivity test (ipv6check-udp.steamserver.net) - FAILED, no addresses resolved
+[2026-10-08 23:10:15] CCMInterface::YieldingConnect -- calling ISteamDirectory/GetCMListForConnect/?cellid=158&qoslevel=2
+[2026-10-08 23:10:36] GetCMListForConnect -- web API call failed (status = 0)
+[2026-10-08 23:10:36] No NetFilter CMs, defaulting to WebSockets
+[2026-10-08 23:10:36] [Connecting, 4, 0] [A:1:0:0] Existing WebSocket ping data (cmp2-tyo3.steamserver.net:443) results: 100000.0000ms + load 0.0000 (826 seconds ago)
+[2026-10-08 23:10:36] [Connecting, 4, 0] [A:1:0:0] Existing WebSocket ping data (ext1-maa2.steamserver.net:27020) results: 100000.0000ms + load 0.0000 (654 seconds ago)
+[2026-10-08 23:10:36] [Connecting, 4, 0] [A:1:0:0] Existing WebSocket ping data (cmp1-hkg1.steamserver.net:27022) results: 100000.0000ms + load 0.0000 (47 seconds ago)
+[2026-10-08 23:10:36] [Connecting, 4, 0] [A:1:0:0] Existing WebSocket ping data (cmp1-iad1.steamserver.net:443) results: 100000.0000ms + load 0.0000 (47 seconds ago)
+[2026-10-08 23:10:36] [Connecting, 4, 0] [A:1:0:0] Existing WebSocket ping data (ext2-maa2.steamserver.net:27032) results: 100000.0000ms + load 0.0000 (48 seconds ago)
+[2026-10-08 23:10:36] [Connecting, 4, 0] [A:1:0:0] Existing WebSocket ping data (ext2-maa2.steamserver.net:27028) results: 100000.0000ms + load 0.0000 (48 seconds ago)
+[2026-10-08 23:10:36] [Connecting, 4, 0] [A:1:0:0] Existing WebSocket ping data (cmp1-atl3.steamserver.net:443) results: 100000.0000ms + load 0.0000 (48 seconds ago)
+[2026-10-08 23:10:36] [Connecting, 4, 0] [A:1:0:0] Existing WebSocket ping data (cmp2-iad1.steamserver.net:27018) results: 100000.0000ms + load 0.0000 (48 seconds ago)
+[2026-10-08 23:10:36] [Connecting, 4, 0] [A:1:0:0] Existing WebSocket ping data (ext2-bom2.steamserver.net:27032) results: 100000.0000ms + load 0.0000 (49 seconds ago)
+[2026-10-08 23:10:36] [Connecting, 4, 0] [A:1:0:0] Existing WebSocket ping data (cmp1-atl3.steamserver.net:27018) results: 100000.0000ms + load 0.0000 (49 seconds ago)
+[2026-10-08 23:10:36] [Connecting, 4, 0] [A:1:0:0] Existing WebSocket ping data (cmp1-sgp1.steamserver.net:443) results: 100000.0000ms + load 0.0000 (49 seconds ago)
+[2026-10-08 23:10:36] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp2-ord1.steamserver.net:443) starting...
+[2026-10-08 23:10:36] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp1-sgp1.steamserver.net:443) starting...
+[2026-10-08 23:10:36] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp1-atl3.steamserver.net:27018) starting...
+[2026-10-08 23:10:36] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (ext2-bom2.steamserver.net:27032) starting...
+[2026-10-08 23:10:37] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp1-sgp1.steamserver.net:443) failed talking to cm (timeout/neterror - Invalid)
+[2026-10-08 23:10:37] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp2-ord1.steamserver.net:443) failed talking to cm (timeout/neterror - Invalid)
+[2026-10-08 23:10:37] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp1-atl3.steamserver.net:27018) failed talking to cm (timeout/neterror - Invalid)
+[2026-10-08 23:10:37] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (ext2-bom2.steamserver.net:27032) failed talking to cm (timeout/neterror - Invalid)
+[2026-10-08 23:10:37] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp2-iad1.steamserver.net:27018) starting...
+[2026-10-08 23:10:37] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp1-atl3.steamserver.net:443) starting...
+[2026-10-08 23:10:37] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (ext2-maa2.steamserver.net:27028) starting...
+[2026-10-08 23:10:37] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (ext2-maa2.steamserver.net:27032) starting...
+[2026-10-08 23:10:38] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp2-iad1.steamserver.net:27018) failed talking to cm (timeout/neterror - Invalid)
+[2026-10-08 23:10:38] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp1-atl3.steamserver.net:443) failed talking to cm (timeout/neterror - Invalid)
+[2026-10-08 23:10:38] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (ext2-maa2.steamserver.net:27032) failed talking to cm (timeout/neterror - Invalid)
+[2026-10-08 23:10:38] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (ext2-maa2.steamserver.net:27028) failed talking to cm (timeout/neterror - Invalid)
+[2026-10-08 23:10:38] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp1-iad1.steamserver.net:443) starting...
+[2026-10-08 23:10:38] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp1-hkg1.steamserver.net:27022) starting...
+[2026-10-08 23:10:38] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (ext1-maa2.steamserver.net:27020) starting...
+[2026-10-08 23:10:38] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp2-tyo3.steamserver.net:443) starting...
+[2026-10-08 23:10:39] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (ext1-maa2.steamserver.net:27020) failed talking to cm (timeout/neterror - Invalid)
+[2026-10-08 23:10:39] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp2-tyo3.steamserver.net:443) failed talking to cm (timeout/neterror - Invalid)
+[2026-10-08 23:10:39] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp1-iad1.steamserver.net:443) failed talking to cm (timeout/neterror - Invalid)
+[2026-10-08 23:10:39] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp1-hkg1.steamserver.net:27022) failed talking to cm (timeout/neterror - Invalid)
+[2026-10-08 23:10:39] [Connecting, 4, 7] [A:1:0:0] Connect() starting connection (eNetQOSLevelMedium, cmp2-ord1.steamserver.net:443, WebSocket)
+[2026-10-08 23:11:00] [Connecting, 4, 0] [A:1:0:0] ConnectFailed('Connection Failed':0) (0.0.0.0:0, WebSocket)
+[2026-10-08 23:11:00] [Connecting, 4, 0] [A:1:0:0] Client thinks it can connect via: UDP - yes, TCP - yes, WebSocket:443 - yes, WebSocket:Non443 - yes
+[2026-10-08 23:11:00] [Logged Off, 4, 0] [A:1:0:0] StartAutoReconnect() will start in 3.0 seconds (attempt 2)
+[2026-10-08 23:11:00] IPv6 HTTP connectivity test (ipv6check-http.steamserver.net / 0.0.0.0:80 (0.0.0.0:80)) - TIMEOUT
+[2026-10-08 23:11:01] IPv6 UDP connectivity test (ipv6check-udp.steamserver.net) - FAILED, no addresses resolved
+[2026-10-08 23:11:03] CCMInterface::YieldingConnect -- calling ISteamDirectory/GetCMListForConnect/?cellid=158&qoslevel=2
+
+
+[2026-10-08 23:12:05] Client version: no bootstrapper found
+[2026-10-08 23:12:05] Log session started
+[2026-10-08 23:12:05] [Logged Off, 0, 0] [A:1:0:0] CCMInterface::SetSteamID( [A:1:0:0] )
+[2026-10-08 23:12:05] Log session started
+[2026-10-08 23:12:05] [Logged Off, 4, 0] [A:1:0:0] EConnect called - scheduling connection for 50ms from now
+[2026-10-08 23:12:05] Log session started
+[2026-10-08 23:12:05] [Logged Off, 4, 0] [A:1:0:0] LogOn() called; not connected yet, scheduling connection. Schedule init returned 22
+[2026-10-08 23:12:05] [Logged Off, 4, 0] [A:1:0:0] EConnect called - scheduling connection for 50ms from now
+[2026-10-08 23:12:05] IPv6 HTTP connectivity test (ipv6check-http.steamserver.net / 0.0.0.0:80 (0.0.0.0:80)) - TIMEOUT
+[2026-10-08 23:12:05] IPv6 UDP connectivity test (ipv6check-udp.steamserver.net) - FAILED, no addresses resolved
+[2026-10-08 23:12:05] CCMInterface::YieldingConnect -- calling ISteamDirectory/GetCMListForConnect/?cellid=158&qoslevel=2
+[2026-10-08 23:12:26] GetCMListForConnect -- web API call failed (status = 0)
+[2026-10-08 23:12:26] No NetFilter CMs, defaulting to WebSockets
+[2026-10-08 23:12:26] [Connecting, 4, 0] [A:1:0:0] Existing WebSocket ping data (cmp2-tyo3.steamserver.net:27020) results: 100000.0000ms + load 0.0000 (411 seconds ago)
+[2026-10-08 23:12:26] [Connecting, 4, 0] [A:1:0:0] Existing WebSocket ping data (ext1-maa2.steamserver.net:27032) results: 100000.0000ms + load 0.0000 (1193 seconds ago)
+[2026-10-08 23:12:26] [Connecting, 4, 0] [A:1:0:0] Existing WebSocket ping data (cmp3-hkg1.steamserver.net:27018) results: 100000.0000ms + load 0.0000 (411 seconds ago)
+[2026-10-08 23:12:26] [Connecting, 4, 0] [A:1:0:0] Existing WebSocket ping data (cmp1-hkg1.steamserver.net:27022) results: 100000.0000ms + load 0.0000 (107 seconds ago)
+[2026-10-08 23:12:26] [Connecting, 4, 0] [A:1:0:0] Existing WebSocket ping data (ext2-maa2.steamserver.net:27032) results: 100000.0000ms + load 0.0000 (108 seconds ago)
+[2026-10-08 23:12:26] [Connecting, 4, 0] [A:1:0:0] Existing WebSocket ping data (ext2-bom2.steamserver.net:27032) results: 100000.0000ms + load 0.0000 (109 seconds ago)
+[2026-10-08 23:12:26] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (ext2-bom2.steamserver.net:27032) starting...
+[2026-10-08 23:12:26] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (ext2-maa2.steamserver.net:27032) starting...
+[2026-10-08 23:12:26] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp1-hkg1.steamserver.net:27022) starting...
+[2026-10-08 23:12:26] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp2-syd1.steamserver.net:443) starting...
+[2026-10-08 23:12:27] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (ext2-bom2.steamserver.net:27032) failed talking to cm (timeout/neterror - Invalid)
+[2026-10-08 23:12:27] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp2-syd1.steamserver.net:443) failed talking to cm (timeout/neterror - Invalid)
+[2026-10-08 23:12:27] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (ext2-maa2.steamserver.net:27032) failed talking to cm (timeout/neterror - Invalid)
+[2026-10-08 23:12:27] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp1-hkg1.steamserver.net:27022) failed talking to cm (timeout/neterror - Invalid)
+[2026-10-08 23:12:27] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp3-hkg1.steamserver.net:27018) starting...
+[2026-10-08 23:12:27] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp2-atl3.steamserver.net:443) starting...
+[2026-10-08 23:12:27] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (ext1-maa2.steamserver.net:27032) starting...
+[2026-10-08 23:12:27] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp2-tyo3.steamserver.net:27020) starting...
+[2026-10-08 23:12:28] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp3-hkg1.steamserver.net:27018) failed talking to cm (timeout/neterror - Invalid)
+[2026-10-08 23:12:28] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (ext1-maa2.steamserver.net:27032) failed talking to cm (timeout/neterror - Invalid)
+[2026-10-08 23:12:28] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp2-tyo3.steamserver.net:27020) failed talking to cm (timeout/neterror - Invalid)
+[2026-10-08 23:12:28] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp2-atl3.steamserver.net:443) failed talking to cm (timeout/neterror - Invalid)
+[2026-10-08 23:12:28] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp1-tyo3.steamserver.net:27019) starting...
+[2026-10-08 23:12:28] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (ext1-maa2.steamserver.net:443) starting...
+[2026-10-08 23:12:28] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp2-hkg1.steamserver.net:27022) starting...
+[2026-10-08 23:12:28] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp1-tyo3.steamserver.net:443) starting...
+[2026-10-08 23:12:29] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp2-hkg1.steamserver.net:27022) failed talking to cm (timeout/neterror - Invalid)
+[2026-10-08 23:12:29] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp1-tyo3.steamserver.net:443) failed talking to cm (timeout/neterror - Invalid)
+[2026-10-08 23:12:29] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (cmp1-tyo3.steamserver.net:27019) failed talking to cm (timeout/neterror - Invalid)
+[2026-10-08 23:12:29] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (ext1-maa2.steamserver.net:443) failed talking to cm (timeout/neterror - Invalid)
+[2026-10-08 23:12:29] [Connecting, 4, 3] [A:1:0:0] Connect() starting connection (eNetQOSLevelMedium, ext2-bom2.steamserver.net:27032, WebSocket)
+[2026-10-08 23:12:50] [Connecting, 4, 0] [A:1:0:0] ConnectFailed('Connection Failed':0) (0.0.0.0:0, WebSocket)
+[2026-10-08 23:12:50] [Connecting, 4, 0] [A:1:0:0] Client thinks it can connect via: UDP - yes, TCP - yes, WebSocket:443 - yes, WebSocket:Non443 - yes
+[2026-10-08 23:12:50] [Logged Off, 4, 0] [A:1:0:0] StartAutoReconnect() will start in 6.0 seconds (attempt 1)
+[2026-10-08 23:12:50] IPv6 HTTP connectivity test (ipv6check-http.steamserver.net / 0.0.0.0:80 (0.0.0.0:80)) - TIMEOUT
+[2026-10-08 23:12:50] IPv6 UDP connectivity test (ipv6check-udp.steamserver.net) - FAILED, no addresses resolved
+[2026-10-08 23:12:56] CCMInterface::YieldingConnect -- calling ISteamDirectory/GetCMListForConnect/?cellid=158&qoslevel=2
