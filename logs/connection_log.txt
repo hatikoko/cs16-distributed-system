@@ -202,3 +202,189 @@
 [2026-10-08 23:12:41] Connectivity test (104.109.128.178:80 (104.109.128.178:80)): HTTP fetch failed
 [2026-10-08 23:12:41] Connectivity test: result=TimedOut (since 21.2s ago), prev=Unknown, in progress=0
 [2026-10-08 23:12:47] Connectivity test: Starting test, fetching 'http://steamconnecttest.com/204'
+
+
+[2026-10-08 23:46:09] Client version: no bootstrapper found
+[2026-10-08 23:46:09] Connectivity test: Starting test, fetching 'http://steamconnecttest.com/204'
+[2026-10-08 23:46:24] Connectivity test (23.35.104.130:80 (23.35.104.130:80)): HTTP fetch failed
+[2026-10-08 23:46:24] Connectivity test: result=TimedOut (since 0.0s ago), prev=Unknown, in progress=0
+[2026-10-08 23:46:29] Connectivity test: Starting test, fetching 'http://steamconnecttest.com/204'
+
+
+[2026-10-08 23:46:35] Client version: no bootstrapper found
+[2026-10-08 23:46:35] Connectivity test: Starting test, fetching 'http://steamconnecttest.com/204'
+
+
+[2026-10-08 23:47:21] Client version: no bootstrapper found
+[2026-10-08 23:47:21] Connectivity test: Starting test, fetching 'http://steamconnecttest.com/204'
+[2026-10-08 23:47:36] Connectivity test (23.35.104.129:80 (23.35.104.129:80)): HTTP fetch failed
+[2026-10-08 23:47:36] Connectivity test: result=TimedOut (since 0.0s ago), prev=Unknown, in progress=0
+[2026-10-08 23:47:42] Connectivity test: Starting test, fetching 'http://steamconnecttest.com/204'
+[2026-10-08 23:47:57] Connectivity test (178.88.173.162:80 (178.88.173.162:80)): HTTP fetch failed
+[2026-10-08 23:47:57] Connectivity test: result=TimedOut (since 21.8s ago), prev=Unknown, in progress=0
+[2026-10-08 23:48:04] Connectivity test: Starting test, fetching 'http://steamconnecttest.com/204'
+[2026-10-08 23:48:19] Connectivity test (23.35.104.129:80 (23.35.104.129:80)): HTTP fetch failed
+[2026-10-08 23:48:19] Connectivity test: result=TimedOut (since 43.5s ago), prev=Unknown, in progress=0
+[2026-10-08 23:48:27] Connectivity test: Starting test, fetching 'http://steamconnecttest.com/204'
+[2026-10-08 23:48:42] Connectivity test (178.88.173.162:80 (178.88.173.162:80)): HTTP fetch failed
+[2026-10-08 23:48:42] Connectivity test: result=TimedOut (since 66.3s ago), prev=Unknown, in progress=0
+[2026-10-08 23:48:49] Connectivity test: Starting test, fetching 'http://steamconnecttest.com/204'
+[2026-10-08 23:49:04] Connectivity test (23.35.104.130:80 (23.35.104.130:80)): HTTP fetch failed
+[2026-10-08 23:49:04] Connectivity test: result=TimedOut (since 88.3s ago), prev=Unknown, in progress=0
+[2026-10-08 23:49:14] Connectivity test: Starting test, fetching 'http://steamconnecttest.com/204'
+[2026-10-08 23:49:29] Connectivity test (23.35.104.129:80 (23.35.104.129:80)): HTTP fetch failed
+[2026-10-08 23:49:29] Connectivity test: result=TimedOut (since 113.3s ago), prev=Unknown, in progress=0
+[2026-10-08 23:49:37] Connectivity test: Starting test, fetching 'http://steamconnecttest.com/204'
+[2026-10-08 23:49:52] Connectivity test (23.35.104.129:80 (23.35.104.129:80)): HTTP fetch failed
+[2026-10-08 23:49:52] Connectivity test: result=TimedOut (since 136.8s ago), prev=Unknown, in progress=0
+[2026-10-08 23:50:02] Connectivity test: Starting test, fetching 'http://steamconnecttest.com/204'
+[2026-10-08 23:50:17] Connectivity test (23.35.104.130:80 (23.35.104.130:80)): HTTP fetch failed
+[2026-10-08 23:50:17] Connectivity test: result=TimedOut (since 161.4s ago), prev=Unknown, in progress=0
+[2026-10-08 23:50:28] Connectivity test: Starting test, fetching 'http://steamconnecttest.com/204'
+[2026-10-08 23:50:43] Connectivity test (23.35.104.130:80 (23.35.104.130:80)): HTTP fetch failed
+[2026-10-08 23:50:43] Connectivity test: result=TimedOut (since 187.8s ago), prev=Unknown, in progress=0
+[2026-10-08 23:50:57] Connectivity test: Starting test, fetching 'http://steamconnecttest.com/204'
+[2026-10-08 23:51:12] Connectivity test (178.88.173.170:80 (178.88.173.170:80)): HTTP fetch failed
+[2026-10-08 23:51:12] Connectivity test: result=TimedOut (since 216.7s ago), prev=Unknown, in progress=0
+[2026-10-08 23:51:27] Connectivity test: Starting test, fetching 'http://steamconnecttest.com/204'
+[2026-10-08 23:51:42] Connectivity test (23.35.104.130:80 (23.35.104.130:80)): HTTP fetch failed
+[2026-10-08 23:51:42] Connectivity test: result=TimedOut (since 246.8s ago), prev=Unknown, in progress=0
+[2026-10-08 23:51:59] Connectivity test: Starting test, fetching 'http://steamconnecttest.com/204'
+[2026-10-08 23:52:14] Connectivity test (23.35.104.129:80 (23.35.104.129:80)): HTTP fetch failed
+[2026-10-08 23:52:14] Connectivity test: result=TimedOut (since 278.6s ago), prev=Unknown, in progress=0
+[2026-10-08 23:52:31] Connectivity test: Starting test, fetching 'http://steamconnecttest.com/204'
+[2026-10-08 23:52:46] Connectivity test (23.35.104.130:80 (23.35.104.130:80)): HTTP fetch failed
+[2026-10-08 23:52:46] Connectivity test: result=TimedOut (since 310.1s ago), prev=Unknown, in progress=0
+[2026-10-08 23:53:04] Connectivity test: Starting test, fetching 'http://steamconnecttest.com/204'
+[2026-10-08 23:53:19] Connectivity test (178.88.173.170:80 (178.88.173.170:80)): HTTP fetch failed
+[2026-10-08 23:53:19] Connectivity test: result=TimedOut (since 343.6s ago), prev=Unknown, in progress=0
+[2026-10-08 23:53:38] Connectivity test: Starting test, fetching 'http://steamconnecttest.com/204'
+
+
+[2026-10-09 12:23:11] Client version: no bootstrapper found
+[2026-10-09 12:23:11] Connectivity test: Starting test, fetching 'http://steamconnecttest.com/204'
+[2026-10-09 12:23:26] Connectivity test (178.88.173.162:80 (178.88.173.162:80)): HTTP fetch failed
+[2026-10-09 12:23:26] Connectivity test: result=TimedOut (since 0.0s ago), prev=Unknown, in progress=0
+[2026-10-09 12:23:33] Connectivity test: Starting test, fetching 'http://steamconnecttest.com/204'
+[2026-10-09 12:23:48] Connectivity test (2.16.53.73:80 (2.16.53.73:80)): HTTP fetch failed
+[2026-10-09 12:23:48] Connectivity test: result=TimedOut (since 21.7s ago), prev=Unknown, in progress=0
+[2026-10-09 12:23:56] Connectivity test: Starting test, fetching 'http://steamconnecttest.com/204'
+[2026-10-09 12:24:11] Connectivity test (178.88.173.162:80 (178.88.173.162:80)): HTTP fetch failed
+[2026-10-09 12:24:11] Connectivity test: result=TimedOut (since 44.5s ago), prev=Unknown, in progress=0
+[2026-10-09 12:24:18] Connectivity test: Starting test, fetching 'http://steamconnecttest.com/204'
+[2026-10-09 12:24:33] Connectivity test (178.88.173.170:80 (178.88.173.170:80)): HTTP fetch failed
+[2026-10-09 12:24:33] Connectivity test: result=TimedOut (since 67.1s ago), prev=Unknown, in progress=0
+[2026-10-09 12:24:42] Connectivity test: Starting test, fetching 'http://steamconnecttest.com/204'
+[2026-10-09 12:24:57] Connectivity test (2.16.53.73:80 (2.16.53.73:80)): HTTP fetch failed
+[2026-10-09 12:24:57] Connectivity test: result=TimedOut (since 90.8s ago), prev=Unknown, in progress=0
+[2026-10-09 12:25:06] Connectivity test: Starting test, fetching 'http://steamconnecttest.com/204'
+[2026-10-09 12:25:21] Connectivity test (178.88.173.170:80 (178.88.173.170:80)): HTTP fetch failed
+[2026-10-09 12:25:21] Connectivity test: result=TimedOut (since 114.5s ago), prev=Unknown, in progress=0
+[2026-10-09 12:25:31] Connectivity test: Starting test, fetching 'http://steamconnecttest.com/204'
+[2026-10-09 12:25:46] Connectivity test (178.88.173.162:80 (178.88.173.162:80)): HTTP fetch failed
+[2026-10-09 12:25:46] Connectivity test: result=TimedOut (since 140.0s ago), prev=Unknown, in progress=0
+[2026-10-09 12:25:57] Connectivity test: Starting test, fetching 'http://steamconnecttest.com/204'
+[2026-10-09 12:26:12] Connectivity test (2.16.53.64:80 (2.16.53.64:80)): HTTP fetch failed
+[2026-10-09 12:26:12] Connectivity test: result=TimedOut (since 165.7s ago), prev=Unknown, in progress=0
+[2026-10-09 12:26:22] Connectivity test: Starting test, fetching 'http://steamconnecttest.com/204'
+[2026-10-09 12:26:37] Connectivity test (2.16.53.73:80 (2.16.53.73:80)): HTTP fetch failed
+[2026-10-09 12:26:37] Connectivity test: result=TimedOut (since 190.6s ago), prev=Unknown, in progress=0
+[2026-10-09 12:26:51] Connectivity test: Starting test, fetching 'http://steamconnecttest.com/204'
+
+
+[2026-10-09 12:33:29] Client version: no bootstrapper found
+[2026-10-09 12:33:29] Connectivity test: Starting test, fetching 'http://steamconnecttest.com/204'
+[2026-10-09 12:33:44] Connectivity test (178.88.173.170:80 (178.88.173.170:80)): HTTP fetch failed
+[2026-10-09 12:33:44] Connectivity test: result=TimedOut (since 0.0s ago), prev=Unknown, in progress=0
+[2026-10-09 12:33:50] Connectivity test: Starting test, fetching 'http://steamconnecttest.com/204'
+[2026-10-09 12:34:05] Connectivity test (178.88.173.170:80 (178.88.173.170:80)): HTTP fetch failed
+[2026-10-09 12:34:05] Connectivity test: result=TimedOut (since 21.1s ago), prev=Unknown, in progress=0
+[2026-10-09 12:34:11] Connectivity test: Starting test, fetching 'http://steamconnecttest.com/204'
+[2026-10-09 12:34:26] Connectivity test (178.88.173.170:80 (178.88.173.170:80)): HTTP fetch failed
+[2026-10-09 12:34:26] Connectivity test: result=TimedOut (since 42.3s ago), prev=Unknown, in progress=0
+[2026-10-09 12:34:34] Connectivity test: Starting test, fetching 'http://steamconnecttest.com/204'
+[2026-10-09 12:34:49] Connectivity test (178.88.173.170:80 (178.88.173.170:80)): HTTP fetch failed
+[2026-10-09 12:34:49] Connectivity test: result=TimedOut (since 65.4s ago), prev=Unknown, in progress=0
+[2026-10-09 12:34:57] Connectivity test: Starting test, fetching 'http://steamconnecttest.com/204'
+[2026-10-09 12:35:12] Connectivity test (178.88.173.162:80 (178.88.173.162:80)): HTTP fetch failed
+[2026-10-09 12:35:12] Connectivity test: result=TimedOut (since 88.7s ago), prev=Unknown, in progress=0
+[2026-10-09 12:35:21] Connectivity test: Starting test, fetching 'http://steamconnecttest.com/204'
+[2026-10-09 12:35:36] Connectivity test (178.88.173.162:80 (178.88.173.162:80)): HTTP fetch failed
+[2026-10-09 12:35:36] Connectivity test: result=TimedOut (since 112.1s ago), prev=Unknown, in progress=0
+[2026-10-09 12:35:46] Connectivity test: Starting test, fetching 'http://steamconnecttest.com/204'
+[2026-10-09 12:36:01] Connectivity test (178.88.173.170:80 (178.88.173.170:80)): HTTP fetch failed
+[2026-10-09 12:36:01] Connectivity test: result=TimedOut (since 137.0s ago), prev=Unknown, in progress=0
+[2026-10-09 12:36:11] Connectivity test: Starting test, fetching 'http://steamconnecttest.com/204'
+[2026-10-09 12:36:26] Connectivity test (178.88.173.162:80 (178.88.173.162:80)): HTTP fetch failed
+[2026-10-09 12:36:26] Connectivity test: result=TimedOut (since 162.1s ago), prev=Unknown, in progress=0
+[2026-10-09 12:36:38] Connectivity test: Starting test, fetching 'http://steamconnecttest.com/204'
+[2026-10-09 12:36:53] Connectivity test (178.88.173.162:80 (178.88.173.162:80)): HTTP fetch failed
+[2026-10-09 12:36:53] Connectivity test: result=TimedOut (since 189.7s ago), prev=Unknown, in progress=0
+[2026-10-09 12:37:06] Connectivity test: Starting test, fetching 'http://steamconnecttest.com/204'
+[2026-10-09 12:37:21] Connectivity test (178.88.173.162:80 (178.88.173.162:80)): HTTP fetch failed
+[2026-10-09 12:37:21] Connectivity test: result=TimedOut (since 217.1s ago), prev=Unknown, in progress=0
+[2026-10-09 12:37:34] Connectivity test: Starting test, fetching 'http://steamconnecttest.com/204'
+[2026-10-09 12:37:49] Connectivity test (178.88.173.170:80 (178.88.173.170:80)): HTTP fetch failed
+[2026-10-09 12:37:49] Connectivity test: result=TimedOut (since 245.8s ago), prev=Unknown, in progress=0
+[2026-10-09 12:38:06] Connectivity test: Starting test, fetching 'http://steamconnecttest.com/204'
+[2026-10-09 12:38:21] Connectivity test (178.88.173.162:80 (178.88.173.162:80)): HTTP fetch failed
+[2026-10-09 12:38:21] Connectivity test: result=TimedOut (since 277.0s ago), prev=Unknown, in progress=0
+[2026-10-09 12:38:38] Connectivity test: Starting test, fetching 'http://steamconnecttest.com/204'
+[2026-10-09 12:38:53] Connectivity test (178.88.173.170:80 (178.88.173.170:80)): HTTP fetch failed
+[2026-10-09 12:38:53] Connectivity test: result=TimedOut (since 309.0s ago), prev=Unknown, in progress=0
+[2026-10-09 12:39:13] Connectivity test: Starting test, fetching 'http://steamconnecttest.com/204'
+[2026-10-09 12:39:28] Connectivity test (178.88.173.170:80 (178.88.173.170:80)): HTTP fetch failed
+[2026-10-09 12:39:28] Connectivity test: result=TimedOut (since 344.0s ago), prev=Unknown, in progress=0
+
+
+[2026-10-09 12:50:26] Client version: no bootstrapper found
+[2026-10-09 12:50:26] Connectivity test: Starting test, fetching 'http://steamconnecttest.com/204'
+[2026-10-09 12:50:41] Connectivity test (23.35.104.130:80 (23.35.104.130:80)): HTTP fetch failed
+[2026-10-09 12:50:41] Connectivity test: result=TimedOut (since 0.0s ago), prev=Unknown, in progress=0
+[2026-10-09 12:50:46] Connectivity test: Starting test, fetching 'http://steamconnecttest.com/204'
+[2026-10-09 12:51:01] Connectivity test (178.88.173.162:80 (178.88.173.162:80)): HTTP fetch failed
+[2026-10-09 12:51:01] Connectivity test: result=TimedOut (since 20.1s ago), prev=Unknown, in progress=0
+[2026-10-09 12:51:09] Connectivity test: Starting test, fetching 'http://steamconnecttest.com/204'
+[2026-10-09 12:51:24] Connectivity test (23.35.104.129:80 (23.35.104.129:80)): HTTP fetch failed
+[2026-10-09 12:51:24] Connectivity test: result=TimedOut (since 42.6s ago), prev=Unknown, in progress=0
+[2026-10-09 12:51:32] Connectivity test: Starting test, fetching 'http://steamconnecttest.com/204'
+[2026-10-09 12:51:47] Connectivity test (23.35.104.129:80 (23.35.104.129:80)): HTTP fetch failed
+[2026-10-09 12:51:47] Connectivity test: result=TimedOut (since 65.5s ago), prev=Unknown, in progress=0
+[2026-10-09 12:51:55] Connectivity test: Starting test, fetching 'http://steamconnecttest.com/204'
+[2026-10-09 12:52:10] Connectivity test (23.35.104.129:80 (23.35.104.129:80)): HTTP fetch failed
+[2026-10-09 12:52:10] Connectivity test: result=TimedOut (since 89.1s ago), prev=Unknown, in progress=0
+
+
+[2026-10-09 12:57:59] Client version: no bootstrapper found
+[2026-10-09 12:57:59] Connectivity test: Starting test, fetching 'http://steamconnecttest.com/204'
+[2026-10-09 12:58:14] Connectivity test (23.35.104.129:80 (23.35.104.129:80)): HTTP fetch failed
+[2026-10-09 12:58:14] Connectivity test: result=TimedOut (since 0.0s ago), prev=Unknown, in progress=0
+[2026-10-09 12:58:20] Connectivity test: Starting test, fetching 'http://steamconnecttest.com/204'
+[2026-10-09 12:58:35] Connectivity test (23.35.104.130:80 (23.35.104.130:80)): HTTP fetch failed
+[2026-10-09 12:58:35] Connectivity test: result=TimedOut (since 20.8s ago), prev=Unknown, in progress=0
+[2026-10-09 12:58:41] Connectivity test: Starting test, fetching 'http://steamconnecttest.com/204'
+
+
+[2026-10-09 13:01:59] Client version: no bootstrapper found
+[2026-10-09 13:01:59] Connectivity test: Starting test, fetching 'http://steamconnecttest.com/204'
+[2026-10-09 13:02:14] Connectivity test (23.35.104.130:80 (23.35.104.130:80)): HTTP fetch failed
+[2026-10-09 13:02:14] Connectivity test: result=TimedOut (since 0.0s ago), prev=Unknown, in progress=0
+[2026-10-09 13:02:20] Connectivity test: Starting test, fetching 'http://steamconnecttest.com/204'
+[2026-10-09 13:02:35] Connectivity test (2.16.53.73:80 (2.16.53.73:80)): HTTP fetch failed
+[2026-10-09 13:02:35] Connectivity test: result=TimedOut (since 21.0s ago), prev=Unknown, in progress=0
+[2026-10-09 13:02:43] Connectivity test: Starting test, fetching 'http://steamconnecttest.com/204'
+[2026-10-09 13:02:58] Connectivity test (23.35.104.130:80 (23.35.104.130:80)): HTTP fetch failed
+[2026-10-09 13:02:58] Connectivity test: result=TimedOut (since 43.5s ago), prev=Unknown, in progress=0
+[2026-10-09 13:03:06] Connectivity test: Starting test, fetching 'http://steamconnecttest.com/204'
+[2026-10-09 13:03:21] Connectivity test (23.35.104.130:80 (23.35.104.130:80)): HTTP fetch failed
+[2026-10-09 13:03:21] Connectivity test: result=TimedOut (since 66.2s ago), prev=Unknown, in progress=0
+[2026-10-09 13:03:28] Connectivity test: Starting test, fetching 'http://steamconnecttest.com/204'
+
+
+[2026-10-09 13:06:05] Client version: no bootstrapper found
+[2026-10-09 13:06:05] Connectivity test: Starting test, fetching 'http://steamconnecttest.com/204'
+[2026-10-09 13:06:20] Connectivity test (23.35.104.130:80 (23.35.104.130:80)): HTTP fetch failed
+[2026-10-09 13:06:20] Connectivity test: result=TimedOut (since 0.0s ago), prev=Unknown, in progress=0
+[2026-10-09 13:06:26] Connectivity test: Starting test, fetching 'http://steamconnecttest.com/204'
+[2026-10-09 13:06:41] Connectivity test (23.35.104.130:80 (23.35.104.130:80)): HTTP fetch failed
+[2026-10-09 13:06:41] Connectivity test: result=TimedOut (since 21.6s ago), prev=Unknown, in progress=0

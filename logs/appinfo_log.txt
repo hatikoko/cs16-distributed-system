@@ -120,3 +120,66 @@
 [2026-10-08 23:12:05] ThreadedReadFromDisk: header version: 0x7564429
 [2026-10-08 23:12:05] ThreadedReadFromDisk: apps updated: 1
 [2026-10-08 23:12:05] CAppInfoCacheReadFromDiskThread took 7 milliseconds to initialize
+
+
+[2026-10-08 23:46:09] Client version: no bootstrapper found
+[2026-10-08 23:46:09] ThreadedReadFromDisk: loading appinfo cache from: D:\cs16server/appcache/appinfo.vdf
+[2026-10-08 23:46:09] ThreadedReadFromDisk: header version: 0x7564429
+[2026-10-08 23:46:09] ThreadedReadFromDisk: apps updated: 1
+[2026-10-08 23:46:09] CAppInfoCacheReadFromDiskThread took 9 milliseconds to initialize
+
+
+[2026-10-08 23:46:35] Client version: no bootstrapper found
+[2026-10-08 23:46:35] ThreadedReadFromDisk: loading appinfo cache from: D:\cs16server/appcache/appinfo.vdf
+[2026-10-08 23:46:35] ThreadedReadFromDisk: header version: 0x7564429
+[2026-10-08 23:46:35] ThreadedReadFromDisk: apps updated: 1
+[2026-10-08 23:46:35] CAppInfoCacheReadFromDiskThread took 12 milliseconds to initialize
+
+
+[2026-10-08 23:47:21] Client version: no bootstrapper found
+[2026-10-08 23:47:21] ThreadedReadFromDisk: loading appinfo cache from: D:\cs16server/appcache/appinfo.vdf
+[2026-10-08 23:47:21] ThreadedReadFromDisk: header version: 0x7564429
+[2026-10-08 23:47:21] ThreadedReadFromDisk: apps updated: 1
+[2026-10-08 23:47:21] CAppInfoCacheReadFromDiskThread took 8 milliseconds to initialize
+
+
+[2026-10-09 12:23:11] Client version: no bootstrapper found
+[2026-10-09 12:23:11] ThreadedReadFromDisk: loading appinfo cache from: D:\cs16server/appcache/appinfo.vdf
+[2026-10-09 12:23:11] ThreadedReadFromDisk: header version: 0x7564429
+[2026-10-09 12:23:11] ThreadedReadFromDisk: apps updated: 1
+[2026-10-09 12:23:11] CAppInfoCacheReadFromDiskThread took 11 milliseconds to initialize
+
+
+[2026-10-09 12:33:29] Client version: no bootstrapper found
+[2026-10-09 12:33:29] ThreadedReadFromDisk: loading appinfo cache from: D:\cs16server/appcache/appinfo.vdf
+[2026-10-09 12:33:29] ThreadedReadFromDisk: header version: 0x7564429
+[2026-10-09 12:33:29] ThreadedReadFromDisk: apps updated: 1
+[2026-10-09 12:33:29] CAppInfoCacheReadFromDiskThread took 13 milliseconds to initialize
+
+
+[2026-10-09 12:50:26] Client version: no bootstrapper found
+[2026-10-09 12:50:26] ThreadedReadFromDisk: loading appinfo cache from: D:\cs16server/appcache/appinfo.vdf
+[2026-10-09 12:50:26] ThreadedReadFromDisk: header version: 0x7564429
+[2026-10-09 12:50:26] ThreadedReadFromDisk: apps updated: 1
+[2026-10-09 12:50:26] CAppInfoCacheReadFromDiskThread took 12 milliseconds to initialize
+
+
+[2026-10-09 12:57:59] Client version: no bootstrapper found
+[2026-10-09 12:57:59] ThreadedReadFromDisk: loading appinfo cache from: D:\cs16server/appcache/appinfo.vdf
+[2026-10-09 12:57:59] ThreadedReadFromDisk: header version: 0x7564429
+[2026-10-09 12:57:59] ThreadedReadFromDisk: apps updated: 1
+[2026-10-09 12:57:59] CAppInfoCacheReadFromDiskThread took 17 milliseconds to initialize
+
+
+[2026-10-09 13:01:59] Client version: no bootstrapper found
+[2026-10-09 13:01:59] ThreadedReadFromDisk: loading appinfo cache from: D:\cs16server/appcache/appinfo.vdf
+[2026-10-09 13:01:59] ThreadedReadFromDisk: header version: 0x7564429
+[2026-10-09 13:01:59] ThreadedReadFromDisk: apps updated: 1
+[2026-10-09 13:01:59] CAppInfoCacheReadFromDiskThread took 16 milliseconds to initialize
+
+
+[2026-10-09 13:06:05] Client version: no bootstrapper found
+[2026-10-09 13:06:05] ThreadedReadFromDisk: loading appinfo cache from: D:\cs16server/appcache/appinfo.vdf
+[2026-10-09 13:06:05] ThreadedReadFromDisk: header version: 0x7564429
+[2026-10-09 13:06:05] ThreadedReadFromDisk: apps updated: 1
+[2026-10-09 13:06:05] CAppInfoCacheReadFromDiskThread took 7 milliseconds to initialize

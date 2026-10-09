@@ -96,3 +96,85 @@
 [2026-10-08 23:12:05] Loaded store 'install' from 'D:\cs16server\config\config.vdf' successfully
 [2026-10-08 23:12:29] Flushed store 'install' to 'D:\cs16server\config\config.vdf'
 [2026-10-08 23:12:51] Flushed store 'install' to 'D:\cs16server\config\config.vdf'
+
+
+[2026-10-08 23:46:09] Client version: no bootstrapper found
+[2026-10-08 23:46:09] Loaded store 'install' from 'D:\cs16server\config\config.vdf' successfully
+
+
+[2026-10-08 23:46:35] Client version: no bootstrapper found
+[2026-10-08 23:46:35] Loaded store 'install' from 'D:\cs16server\config\config.vdf' successfully
+
+
+[2026-10-08 23:47:21] Client version: no bootstrapper found
+[2026-10-08 23:47:21] Loaded store 'install' from 'D:\cs16server\config\config.vdf' successfully
+[2026-10-08 23:47:45] Flushed store 'install' to 'D:\cs16server\config\config.vdf'
+[2026-10-08 23:48:06] Flushed store 'install' to 'D:\cs16server\config\config.vdf'
+[2026-10-08 23:48:38] Flushed store 'install' to 'D:\cs16server\config\config.vdf'
+[2026-10-08 23:48:59] Flushed store 'install' to 'D:\cs16server\config\config.vdf'
+[2026-10-08 23:49:29] Flushed store 'install' to 'D:\cs16server\config\config.vdf'
+[2026-10-08 23:49:50] Flushed store 'install' to 'D:\cs16server\config\config.vdf'
+[2026-10-08 23:50:21] Flushed store 'install' to 'D:\cs16server\config\config.vdf'
+[2026-10-08 23:50:42] Flushed store 'install' to 'D:\cs16server\config\config.vdf'
+[2026-10-08 23:51:15] Flushed store 'install' to 'D:\cs16server\config\config.vdf'
+[2026-10-08 23:51:36] Flushed store 'install' to 'D:\cs16server\config\config.vdf'
+[2026-10-08 23:52:14] Flushed store 'install' to 'D:\cs16server\config\config.vdf'
+[2026-10-08 23:52:35] Flushed store 'install' to 'D:\cs16server\config\config.vdf'
+[2026-10-08 23:53:25] Flushed store 'install' to 'D:\cs16server\config\config.vdf'
+[2026-10-08 23:53:46] Flushed store 'install' to 'D:\cs16server\config\config.vdf'
+
+
+[2026-10-09 12:23:11] Client version: no bootstrapper found
+[2026-10-09 12:23:11] Loaded store 'install' from 'D:\cs16server\config\config.vdf' successfully
+[2026-10-09 12:23:36] Flushed store 'install' to 'D:\cs16server\config\config.vdf'
+[2026-10-09 12:23:57] Flushed store 'install' to 'D:\cs16server\config\config.vdf'
+[2026-10-09 12:24:23] Flushed store 'install' to 'D:\cs16server\config\config.vdf'
+[2026-10-09 12:24:44] Flushed store 'install' to 'D:\cs16server\config\config.vdf'
+[2026-10-09 12:25:10] Flushed store 'install' to 'D:\cs16server\config\config.vdf'
+[2026-10-09 12:25:31] Flushed store 'install' to 'D:\cs16server\config\config.vdf'
+[2026-10-09 12:26:08] Flushed store 'install' to 'D:\cs16server\config\config.vdf'
+[2026-10-09 12:26:29] Flushed store 'install' to 'D:\cs16server\config\config.vdf'
+
+
+[2026-10-09 12:33:29] Client version: no bootstrapper found
+[2026-10-09 12:33:29] Loaded store 'install' from 'D:\cs16server\config\config.vdf' successfully
+[2026-10-09 12:33:54] Flushed store 'install' to 'D:\cs16server\config\config.vdf'
+[2026-10-09 12:34:15] Flushed store 'install' to 'D:\cs16server\config\config.vdf'
+[2026-10-09 12:34:46] Flushed store 'install' to 'D:\cs16server\config\config.vdf'
+[2026-10-09 12:35:07] Flushed store 'install' to 'D:\cs16server\config\config.vdf'
+[2026-10-09 12:35:37] Flushed store 'install' to 'D:\cs16server\config\config.vdf'
+[2026-10-09 12:35:58] Flushed store 'install' to 'D:\cs16server\config\config.vdf'
+[2026-10-09 12:36:28] Flushed store 'install' to 'D:\cs16server\config\config.vdf'
+[2026-10-09 12:36:49] Flushed store 'install' to 'D:\cs16server\config\config.vdf'
+[2026-10-09 12:37:21] Flushed store 'install' to 'D:\cs16server\config\config.vdf'
+[2026-10-09 12:37:43] Flushed store 'install' to 'D:\cs16server\config\config.vdf'
+[2026-10-09 12:38:16] Flushed store 'install' to 'D:\cs16server\config\config.vdf'
+[2026-10-09 12:38:37] Flushed store 'install' to 'D:\cs16server\config\config.vdf'
+[2026-10-09 12:39:22] Flushed store 'install' to 'D:\cs16server\config\config.vdf'
+
+
+[2026-10-09 12:50:26] Client version: no bootstrapper found
+[2026-10-09 12:50:26] Loaded store 'install' from 'D:\cs16server\config\config.vdf' successfully
+[2026-10-09 12:50:51] Flushed store 'install' to 'D:\cs16server\config\config.vdf'
+[2026-10-09 12:51:12] Flushed store 'install' to 'D:\cs16server\config\config.vdf'
+[2026-10-09 12:51:41] Flushed store 'install' to 'D:\cs16server\config\config.vdf'
+[2026-10-09 12:52:02] Flushed store 'install' to 'D:\cs16server\config\config.vdf'
+
+
+[2026-10-09 12:57:59] Client version: no bootstrapper found
+[2026-10-09 12:57:59] Loaded store 'install' from 'D:\cs16server\config\config.vdf' successfully
+[2026-10-09 12:58:24] Flushed store 'install' to 'D:\cs16server\config\config.vdf'
+[2026-10-09 12:58:45] Flushed store 'install' to 'D:\cs16server\config\config.vdf'
+
+
+[2026-10-09 13:01:59] Client version: no bootstrapper found
+[2026-10-09 13:01:59] Loaded store 'install' from 'D:\cs16server\config\config.vdf' successfully
+[2026-10-09 13:02:24] Flushed store 'install' to 'D:\cs16server\config\config.vdf'
+[2026-10-09 13:02:45] Flushed store 'install' to 'D:\cs16server\config\config.vdf'
+[2026-10-09 13:03:12] Flushed store 'install' to 'D:\cs16server\config\config.vdf'
+[2026-10-09 13:03:34] Flushed store 'install' to 'D:\cs16server\config\config.vdf'
+
+
+[2026-10-09 13:06:05] Client version: no bootstrapper found
+[2026-10-09 13:06:05] Loaded store 'install' from 'D:\cs16server\config\config.vdf' successfully
+[2026-10-09 13:06:30] Flushed store 'install' to 'D:\cs16server\config\config.vdf'

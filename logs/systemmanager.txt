@@ -67,3 +67,48 @@
 [2026-10-08 23:12:05] Client version: no bootstrapper found
 [2026-10-08 23:12:05] Initializing System Manager
 [2026-10-08 23:12:05] Skipping CSystemManager Init because we are in a game process
+
+
+[2026-10-08 23:46:09] Client version: no bootstrapper found
+[2026-10-08 23:46:09] Initializing System Manager
+[2026-10-08 23:46:09] Skipping CSystemManager Init because we are in a game process
+
+
+[2026-10-08 23:46:35] Client version: no bootstrapper found
+[2026-10-08 23:46:35] Initializing System Manager
+[2026-10-08 23:46:35] Skipping CSystemManager Init because we are in a game process
+
+
+[2026-10-08 23:47:21] Client version: no bootstrapper found
+[2026-10-08 23:47:21] Initializing System Manager
+[2026-10-08 23:47:21] Skipping CSystemManager Init because we are in a game process
+
+
+[2026-10-09 12:23:11] Client version: no bootstrapper found
+[2026-10-09 12:23:11] Initializing System Manager
+[2026-10-09 12:23:11] Skipping CSystemManager Init because we are in a game process
+
+
+[2026-10-09 12:33:29] Client version: no bootstrapper found
+[2026-10-09 12:33:29] Initializing System Manager
+[2026-10-09 12:33:29] Skipping CSystemManager Init because we are in a game process
+
+
+[2026-10-09 12:50:26] Client version: no bootstrapper found
+[2026-10-09 12:50:26] Initializing System Manager
+[2026-10-09 12:50:26] Skipping CSystemManager Init because we are in a game process
+
+
+[2026-10-09 12:57:59] Client version: no bootstrapper found
+[2026-10-09 12:57:59] Initializing System Manager
+[2026-10-09 12:57:59] Skipping CSystemManager Init because we are in a game process
+
+
+[2026-10-09 13:01:59] Client version: no bootstrapper found
+[2026-10-09 13:01:59] Initializing System Manager
+[2026-10-09 13:01:59] Skipping CSystemManager Init because we are in a game process
+
+
+[2026-10-09 13:06:05] Client version: no bootstrapper found
+[2026-10-09 13:06:05] Initializing System Manager
+[2026-10-09 13:06:05] Skipping CSystemManager Init because we are in a game process
